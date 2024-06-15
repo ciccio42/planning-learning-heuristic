@@ -1,0 +1,2102 @@
+{
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/5/task05.pddl": {
+    "h-max": {
+      "nodes_expanded": 47,
+      "plan_length": 10,
+      "heuristic_calls": 95,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.023232738487422466,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 32,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.006973451003432274,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 28,
+      "heuristic_val_for_initial_state": 7.0,
+      "search_time": 0.02449871227145195,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 17,
+      "plan_length": 10,
+      "heuristic_calls": 41,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 0.009685445576906204,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 203,
+      "plan_length": 10,
+      "heuristic_calls": 331,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.005100312642753124,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 22,
+      "plan_length": 10,
+      "heuristic_calls": 53,
+      "heuristic_val_for_initial_state": 7.854481220245361,
+      "search_time": 5.132700596936047,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/5/task08.pddl": {
+    "h-max": {
+      "nodes_expanded": 83,
+      "plan_length": 10,
+      "heuristic_calls": 170,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 0.043386226519942284,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 14,
+      "plan_length": 10,
+      "heuristic_calls": 34,
+      "heuristic_val_for_initial_state": 15,
+      "search_time": 0.007137848064303398,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 27,
+      "heuristic_val_for_initial_state": 10.0,
+      "search_time": 0.025125406682491302,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 14,
+      "plan_length": 10,
+      "heuristic_calls": 31,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 0.00702960230410099,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 282,
+      "plan_length": 10,
+      "heuristic_calls": 421,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.006902555003762245,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 14,
+      "plan_length": 10,
+      "heuristic_calls": 33,
+      "heuristic_val_for_initial_state": 11.074260711669922,
+      "search_time": 3.2672532945871353,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/5/task13.pddl": {
+    "h-max": {
+      "nodes_expanded": 279,
+      "plan_length": 12,
+      "heuristic_calls": 438,
+      "heuristic_val_for_initial_state": 3,
+      "search_time": 0.11276028584688902,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 46,
+      "plan_length": 14,
+      "heuristic_calls": 91,
+      "heuristic_val_for_initial_state": 11,
+      "search_time": 0.02138715237379074,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 66,
+      "plan_length": 12,
+      "heuristic_calls": 127,
+      "heuristic_val_for_initial_state": 8.0,
+      "search_time": 0.14939667843282223,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 107,
+      "plan_length": 12,
+      "heuristic_calls": 187,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 0.060684673488140106,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 778,
+      "plan_length": 12,
+      "heuristic_calls": 847,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.01848976407200098,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 15,
+      "plan_length": 14,
+      "heuristic_calls": 33,
+      "heuristic_val_for_initial_state": 16.186065673828125,
+      "search_time": 3.1910271113738418,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/5/task18.pddl": {
+    "h-max": {
+      "nodes_expanded": 70,
+      "plan_length": 12,
+      "heuristic_calls": 145,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 0.03705127723515034,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 18,
+      "plan_length": 12,
+      "heuristic_calls": 36,
+      "heuristic_val_for_initial_state": 16,
+      "search_time": 0.007559816353023052,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 18,
+      "plan_length": 12,
+      "heuristic_calls": 36,
+      "heuristic_val_for_initial_state": 9.0,
+      "search_time": 0.03857077285647392,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 21,
+      "plan_length": 12,
+      "heuristic_calls": 42,
+      "heuristic_val_for_initial_state": 9,
+      "search_time": 0.009481921792030334,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 284,
+      "plan_length": 12,
+      "heuristic_calls": 444,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.006999722681939602,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 12,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 17.183134078979492,
+      "search_time": 2.588304143399,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/5/task20.pddl": {
+    "h-max": {
+      "nodes_expanded": 68,
+      "plan_length": 10,
+      "heuristic_calls": 142,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.033808765932917595,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 17,
+      "plan_length": 10,
+      "heuristic_calls": 35,
+      "heuristic_val_for_initial_state": 11,
+      "search_time": 0.007330113090574741,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 17,
+      "plan_length": 10,
+      "heuristic_calls": 35,
+      "heuristic_val_for_initial_state": 7.0,
+      "search_time": 0.02959003858268261,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 19,
+      "plan_length": 10,
+      "heuristic_calls": 38,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 0.008915798738598824,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 293,
+      "plan_length": 10,
+      "heuristic_calls": 454,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.007996679283678532,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 24,
+      "heuristic_val_for_initial_state": 15.49765396118164,
+      "search_time": 2.3154477337375283,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/5/task24.pddl": {
+    "h-max": {
+      "nodes_expanded": 63,
+      "plan_length": 10,
+      "heuristic_calls": 130,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.032219660468399525,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 13,
+      "plan_length": 10,
+      "heuristic_calls": 22,
+      "heuristic_val_for_initial_state": 19,
+      "search_time": 0.0044713206589221954,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 8.0,
+      "search_time": 0.016927113756537437,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 16,
+      "plan_length": 10,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 0.00579548254609108,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 297,
+      "plan_length": 10,
+      "heuristic_calls": 458,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.007456951774656773,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 19,
+      "heuristic_val_for_initial_state": 14.047711372375488,
+      "search_time": 1.8244674997404218,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/5/task25.pddl": {
+    "h-max": {
+      "nodes_expanded": 16,
+      "plan_length": 6,
+      "heuristic_calls": 31,
+      "heuristic_val_for_initial_state": 2,
+      "search_time": 0.006523356772959232,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 17,
+      "plan_length": 6,
+      "heuristic_calls": 31,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 0.005942299030721188,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 9,
+      "plan_length": 6,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 6.0,
+      "search_time": 0.014998739585280418,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 17,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 0.003152324818074703,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 54,
+      "plan_length": 6,
+      "heuristic_calls": 98,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.0012995675206184387,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 8,
+      "plan_length": 6,
+      "heuristic_calls": 19,
+      "heuristic_val_for_initial_state": 6.545232772827148,
+      "search_time": 1.8254793528467417,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/5/task27.pddl": {
+    "h-max": {
+      "nodes_expanded": 295,
+      "plan_length": 14,
+      "heuristic_calls": 451,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 0.11827154271304607,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 55,
+      "plan_length": 16,
+      "heuristic_calls": 109,
+      "heuristic_val_for_initial_state": 17,
+      "search_time": 0.025684034451842308,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 75,
+      "plan_length": 14,
+      "heuristic_calls": 135,
+      "heuristic_val_for_initial_state": 8.0,
+      "search_time": 0.14971617702394724,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 111,
+      "plan_length": 14,
+      "heuristic_calls": 191,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 0.049206494353711605,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 747,
+      "plan_length": 14,
+      "heuristic_calls": 814,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.016664319671690464,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 20,
+      "plan_length": 16,
+      "heuristic_calls": 38,
+      "heuristic_val_for_initial_state": 16.909860610961914,
+      "search_time": 3.749712662771344,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/5/task36.pddl": {
+    "h-max": {
+      "nodes_expanded": 23,
+      "plan_length": 8,
+      "heuristic_calls": 51,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.012270431034266949,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 14,
+      "search_time": 0.004456666298210621,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 8.0,
+      "search_time": 0.016701637767255306,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 0.004712311550974846,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 85,
+      "plan_length": 8,
+      "heuristic_calls": 163,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.002267635427415371,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 7.140102386474609,
+      "search_time": 2.020699556916952,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/5/task42.pddl": {
+    "h-max": {
+      "nodes_expanded": 46,
+      "plan_length": 10,
+      "heuristic_calls": 86,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 0.02101434674113989,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 19,
+      "plan_length": 10,
+      "heuristic_calls": 44,
+      "heuristic_val_for_initial_state": 9,
+      "search_time": 0.009558679535984993,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 14,
+      "plan_length": 10,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 7.0,
+      "search_time": 0.023031344637274742,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 16,
+      "plan_length": 10,
+      "heuristic_calls": 27,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 0.005840023048222065,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 196,
+      "plan_length": 10,
+      "heuristic_calls": 315,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.004810013808310032,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 24,
+      "heuristic_val_for_initial_state": 13.614802360534668,
+      "search_time": 2.297984511591494,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/6/task05.pddl": {
+    "h-max": {
+      "nodes_expanded": 86,
+      "plan_length": 10,
+      "heuristic_calls": 213,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.07111288327723742,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 18,
+      "plan_length": 14,
+      "heuristic_calls": 55,
+      "heuristic_val_for_initial_state": 19,
+      "search_time": 0.016940134577453136,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 10.0,
+      "search_time": 0.034015100449323654,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 0.007853302173316479,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 469,
+      "plan_length": 10,
+      "heuristic_calls": 898,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.015575657598674297,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 11.52542781829834,
+      "search_time": 2.575858957134187,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/6/task08.pddl": {
+    "h-max": {
+      "nodes_expanded": 754,
+      "plan_length": 14,
+      "heuristic_calls": 1399,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.5273028118535876,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 34,
+      "plan_length": 16,
+      "heuristic_calls": 77,
+      "heuristic_val_for_initial_state": 21,
+      "search_time": 0.02280544675886631,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 46,
+      "plan_length": 14,
+      "heuristic_calls": 109,
+      "heuristic_val_for_initial_state": 10.0,
+      "search_time": 0.17883508279919624,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 62,
+      "plan_length": 14,
+      "heuristic_calls": 135,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 0.04518509190529585,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3891,
+      "plan_length": 14,
+      "heuristic_calls": 5032,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.11874857358634472,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 15,
+      "plan_length": 14,
+      "heuristic_calls": 33,
+      "heuristic_val_for_initial_state": 19.296716690063477,
+      "search_time": 3.1838428657501936,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/6/task13.pddl": {
+    "h-max": {
+      "nodes_expanded": 1339,
+      "plan_length": 18,
+      "heuristic_calls": 2310,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 0.8403477370738983,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 94,
+      "plan_length": 22,
+      "heuristic_calls": 217,
+      "heuristic_val_for_initial_state": 37,
+      "search_time": 0.07024676073342562,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 74,
+      "plan_length": 18,
+      "heuristic_calls": 194,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 0.32610364351421595,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 102,
+      "plan_length": 18,
+      "heuristic_calls": 261,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.10195998940616846,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 5018,
+      "plan_length": 18,
+      "heuristic_calls": 5900,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.1727858716621995,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 21,
+      "plan_length": 20,
+      "heuristic_calls": 52,
+      "heuristic_val_for_initial_state": 20.7708797454834,
+      "search_time": 5.317066492512822,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/6/task18.pddl": {
+    "h-max": {
+      "nodes_expanded": 86,
+      "plan_length": 10,
+      "heuristic_calls": 195,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.06560908630490303,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 13,
+      "plan_length": 10,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 11,
+      "search_time": 0.006599751301109791,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 13,
+      "plan_length": 10,
+      "heuristic_calls": 27,
+      "heuristic_val_for_initial_state": 7.0,
+      "search_time": 0.03184172231703997,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 16,
+      "plan_length": 10,
+      "heuristic_calls": 31,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 0.008512399159371853,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 657,
+      "plan_length": 10,
+      "heuristic_calls": 1252,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.021733849309384823,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 10,
+      "heuristic_calls": 28,
+      "heuristic_val_for_initial_state": 13.775068283081055,
+      "search_time": 2.763596238568425,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/6/task20.pddl": {
+    "h-max": {
+      "nodes_expanded": 1262,
+      "plan_length": 14,
+      "heuristic_calls": 2188,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.8296269616112113,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 55,
+      "plan_length": 16,
+      "heuristic_calls": 164,
+      "heuristic_val_for_initial_state": 21,
+      "search_time": 0.05367185454815626,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 48,
+      "plan_length": 14,
+      "heuristic_calls": 138,
+      "heuristic_val_for_initial_state": 10.0,
+      "search_time": 0.2221509264782071,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 94,
+      "plan_length": 14,
+      "heuristic_calls": 238,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 0.0834166631102562,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 4949,
+      "plan_length": 14,
+      "heuristic_calls": 5857,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.16696641221642494,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 27,
+      "plan_length": 16,
+      "heuristic_calls": 80,
+      "heuristic_val_for_initial_state": 15.273309707641602,
+      "search_time": 7.924674428999424,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/6/task24.pddl": {
+    "h-max": {
+      "nodes_expanded": 444,
+      "plan_length": 10,
+      "heuristic_calls": 973,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 0.33931410498917103,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 35,
+      "plan_length": 10,
+      "heuristic_calls": 126,
+      "heuristic_val_for_initial_state": 11,
+      "search_time": 0.04001723788678646,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 22,
+      "plan_length": 10,
+      "heuristic_calls": 77,
+      "heuristic_val_for_initial_state": 7.0,
+      "search_time": 0.10797245521098375,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 32,
+      "plan_length": 10,
+      "heuristic_calls": 108,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 0.03561688866466284,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 2592,
+      "plan_length": 10,
+      "heuristic_calls": 3890,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.10700224433094263,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 39,
+      "heuristic_val_for_initial_state": 15.200529098510742,
+      "search_time": 3.834720754995942,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/6/task25.pddl": {
+    "h-max": {
+      "nodes_expanded": 485,
+      "plan_length": 16,
+      "heuristic_calls": 980,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 0.3741507576778531,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 44,
+      "plan_length": 16,
+      "heuristic_calls": 105,
+      "heuristic_val_for_initial_state": 17,
+      "search_time": 0.033248444087803364,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 28,
+      "plan_length": 16,
+      "heuristic_calls": 64,
+      "heuristic_val_for_initial_state": 8.0,
+      "search_time": 0.10618688631802797,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 43,
+      "plan_length": 16,
+      "heuristic_calls": 109,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 0.04006508272141218,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 2593,
+      "plan_length": 16,
+      "heuristic_calls": 3675,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.07941565290093422,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 27,
+      "plan_length": 16,
+      "heuristic_calls": 79,
+      "heuristic_val_for_initial_state": 19.74224281311035,
+      "search_time": 7.8635346088558435,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/6/task27.pddl": {
+    "h-max": {
+      "nodes_expanded": 220,
+      "plan_length": 10,
+      "heuristic_calls": 507,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 0.212835936807096,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 46,
+      "plan_length": 16,
+      "heuristic_calls": 138,
+      "heuristic_val_for_initial_state": 16,
+      "search_time": 0.04584120865911245,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 31,
+      "heuristic_val_for_initial_state": 10.0,
+      "search_time": 0.041274892166256905,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 13,
+      "plan_length": 10,
+      "heuristic_calls": 37,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 0.011499275453388691,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 1400,
+      "plan_length": 10,
+      "heuristic_calls": 2320,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.044754850678145885,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 31,
+      "heuristic_val_for_initial_state": 16.433574676513672,
+      "search_time": 3.022022696211934,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/6/task36.pddl": {
+    "h-max": {
+      "nodes_expanded": 833,
+      "plan_length": 14,
+      "heuristic_calls": 1532,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.5822657458484173,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 30,
+      "plan_length": 14,
+      "heuristic_calls": 77,
+      "heuristic_val_for_initial_state": 11,
+      "search_time": 0.023170719854533672,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 63,
+      "plan_length": 14,
+      "heuristic_calls": 137,
+      "heuristic_val_for_initial_state": 8.0,
+      "search_time": 0.22036291100084782,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 80,
+      "plan_length": 14,
+      "heuristic_calls": 171,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 0.05779298674315214,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3702,
+      "plan_length": 14,
+      "heuristic_calls": 4824,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.11184825748205185,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 22,
+      "plan_length": 14,
+      "heuristic_calls": 59,
+      "heuristic_val_for_initial_state": 20.78791618347168,
+      "search_time": 5.8894081842154264,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/6/task42.pddl": {
+    "h-max": {
+      "nodes_expanded": 907,
+      "plan_length": 14,
+      "heuristic_calls": 1641,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 0.6233621053397655,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 28,
+      "plan_length": 14,
+      "heuristic_calls": 92,
+      "heuristic_val_for_initial_state": 23,
+      "search_time": 0.030211283825337887,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 25,
+      "plan_length": 14,
+      "heuristic_calls": 83,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 0.12316750921308994,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 68,
+      "plan_length": 14,
+      "heuristic_calls": 194,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.06805207766592503,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3532,
+      "plan_length": 14,
+      "heuristic_calls": 4591,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.11456672195345163,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 16,
+      "plan_length": 14,
+      "heuristic_calls": 46,
+      "heuristic_val_for_initial_state": 18.170164108276367,
+      "search_time": 4.548553377389908,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/7/task05.pddl": {
+    "h-max": {
+      "nodes_expanded": 3310,
+      "plan_length": 16,
+      "heuristic_calls": 6875,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 3.5340349143370986,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 22,
+      "plan_length": 16,
+      "heuristic_calls": 74,
+      "heuristic_val_for_initial_state": 30,
+      "search_time": 0.030277379788458347,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 31,
+      "plan_length": 16,
+      "heuristic_calls": 102,
+      "heuristic_val_for_initial_state": 14.0,
+      "search_time": 0.27166058868169785,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 47,
+      "plan_length": 16,
+      "heuristic_calls": 141,
+      "heuristic_val_for_initial_state": 14,
+      "search_time": 0.06436434760689735,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 24941,
+      "plan_length": 16,
+      "heuristic_calls": 35219,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 1.1222892040386796,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 36,
+      "plan_length": 18,
+      "heuristic_calls": 124,
+      "heuristic_val_for_initial_state": 18.967653274536133,
+      "search_time": 12.265408778563142,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/7/task08.pddl": {
+    "h-max": {
+      "nodes_expanded": 6418,
+      "plan_length": 20,
+      "heuristic_calls": 11984,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 6.151811535470188,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 75,
+      "plan_length": 22,
+      "heuristic_calls": 233,
+      "heuristic_val_for_initial_state": 26,
+      "search_time": 0.0995128471404314,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 121,
+      "plan_length": 20,
+      "heuristic_calls": 307,
+      "heuristic_val_for_initial_state": 11.0,
+      "search_time": 0.7846644762903452,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 169,
+      "plan_length": 20,
+      "heuristic_calls": 411,
+      "heuristic_val_for_initial_state": 11,
+      "search_time": 0.23096700198948383,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 30497,
+      "plan_length": 20,
+      "heuristic_calls": 39176,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 1.297032273374498,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 21,
+      "plan_length": 20,
+      "heuristic_calls": 44,
+      "heuristic_val_for_initial_state": 36.528160095214844,
+      "search_time": 4.290014089085162,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/7/task13.pddl": {
+    "h-max": {
+      "nodes_expanded": 3880,
+      "plan_length": 16,
+      "heuristic_calls": 7530,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 3.674944879487157,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 70,
+      "plan_length": 18,
+      "heuristic_calls": 179,
+      "heuristic_val_for_initial_state": 22,
+      "search_time": 0.07118465099483728,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 80,
+      "plan_length": 16,
+      "heuristic_calls": 206,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 0.496430273167789,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 150,
+      "plan_length": 16,
+      "heuristic_calls": 347,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.15576999355107546,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 27244,
+      "plan_length": 16,
+      "heuristic_calls": 37711,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 1.2434757137671113,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 19,
+      "plan_length": 16,
+      "heuristic_calls": 57,
+      "heuristic_val_for_initial_state": 22.17253303527832,
+      "search_time": 5.5748363407328725,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/7/task18.pddl": {
+    "h-max": {
+      "nodes_expanded": 277,
+      "plan_length": 12,
+      "heuristic_calls": 726,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 0.32993721403181553,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 43,
+      "plan_length": 18,
+      "heuristic_calls": 145,
+      "heuristic_val_for_initial_state": 26,
+      "search_time": 0.0599727351218462,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 13,
+      "plan_length": 12,
+      "heuristic_calls": 35,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 0.0666283443570137,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 13,
+      "plan_length": 12,
+      "heuristic_calls": 35,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.013638903386890888,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 2234,
+      "plan_length": 12,
+      "heuristic_calls": 4594,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.08902554400265217,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 12,
+      "heuristic_calls": 35,
+      "heuristic_val_for_initial_state": 17.518098831176758,
+      "search_time": 3.3828764455392957,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/7/task20.pddl": {
+    "h-max": {
+      "nodes_expanded": 3522,
+      "plan_length": 16,
+      "heuristic_calls": 7241,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 3.5744977677240968,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 40,
+      "plan_length": 16,
+      "heuristic_calls": 126,
+      "heuristic_val_for_initial_state": 26,
+      "search_time": 0.05214858427643776,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 63,
+      "plan_length": 16,
+      "heuristic_calls": 192,
+      "heuristic_val_for_initial_state": 13.0,
+      "search_time": 0.5028253206983209,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 99,
+      "plan_length": 16,
+      "heuristic_calls": 297,
+      "heuristic_val_for_initial_state": 13,
+      "search_time": 0.13913956098258495,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 21483,
+      "plan_length": 16,
+      "heuristic_calls": 30738,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.9658814128488302,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 36,
+      "plan_length": 16,
+      "heuristic_calls": 116,
+      "heuristic_val_for_initial_state": 16.13662338256836,
+      "search_time": 11.547166963107884,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/7/task24.pddl": {
+    "h-max": {
+      "nodes_expanded": 2060,
+      "plan_length": 18,
+      "heuristic_calls": 4591,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 2.2004335215315223,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 39,
+      "plan_length": 18,
+      "heuristic_calls": 106,
+      "heuristic_val_for_initial_state": 45,
+      "search_time": 0.040884933434426785,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 26,
+      "plan_length": 18,
+      "heuristic_calls": 65,
+      "heuristic_val_for_initial_state": 14.0,
+      "search_time": 0.16247599851340055,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 31,
+      "plan_length": 18,
+      "heuristic_calls": 71,
+      "heuristic_val_for_initial_state": 14,
+      "search_time": 0.030883650295436382,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 18776,
+      "plan_length": 18,
+      "heuristic_calls": 28443,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.8853629725053906,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 21,
+      "plan_length": 18,
+      "heuristic_calls": 55,
+      "heuristic_val_for_initial_state": 24.905550003051758,
+      "search_time": 5.421479645185173,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/7/task25.pddl": {
+    "h-max": {
+      "nodes_expanded": 7347,
+      "plan_length": 16,
+      "heuristic_calls": 13389,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 6.73598397243768,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 98,
+      "plan_length": 18,
+      "heuristic_calls": 315,
+      "heuristic_val_for_initial_state": 25,
+      "search_time": 0.1368457479402423,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 45,
+      "plan_length": 16,
+      "heuristic_calls": 126,
+      "heuristic_val_for_initial_state": 14.0,
+      "search_time": 0.33607125747948885,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 68,
+      "plan_length": 16,
+      "heuristic_calls": 178,
+      "heuristic_val_for_initial_state": 14,
+      "search_time": 0.08061433956027031,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 41541,
+      "plan_length": 16,
+      "heuristic_calls": 50875,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 1.6943170335143805,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 17,
+      "plan_length": 16,
+      "heuristic_calls": 52,
+      "heuristic_val_for_initial_state": 30.466693878173828,
+      "search_time": 5.070818435400724,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/7/task27.pddl": {
+    "h-max": {
+      "nodes_expanded": 70,
+      "plan_length": 10,
+      "heuristic_calls": 151,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.06427152641117573,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 19,
+      "plan_length": 10,
+      "heuristic_calls": 59,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.021173995919525623,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 14,
+      "plan_length": 10,
+      "heuristic_calls": 38,
+      "heuristic_val_for_initial_state": 7.0,
+      "search_time": 0.06257825810462236,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 20,
+      "plan_length": 10,
+      "heuristic_calls": 50,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 0.018509111367166042,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 552,
+      "plan_length": 10,
+      "heuristic_calls": 1190,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.021037377417087555,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 10,
+      "heuristic_calls": 34,
+      "heuristic_val_for_initial_state": 12.608057975769043,
+      "search_time": 3.2727026557549834,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/7/task36.pddl": {
+    "h-max": {
+      "nodes_expanded": 10482,
+      "plan_length": 16,
+      "heuristic_calls": 17551,
+      "heuristic_val_for_initial_state": 3,
+      "search_time": 8.581577315926552,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 88,
+      "plan_length": 16,
+      "heuristic_calls": 254,
+      "heuristic_val_for_initial_state": 13,
+      "search_time": 0.10873964428901672,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 368,
+      "plan_length": 16,
+      "heuristic_calls": 870,
+      "heuristic_val_for_initial_state": 9.0,
+      "search_time": 2.2079618545249104,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 589,
+      "plan_length": 16,
+      "heuristic_calls": 1344,
+      "heuristic_val_for_initial_state": 9,
+      "search_time": 0.6567811584100127,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 42978,
+      "plan_length": 16,
+      "heuristic_calls": 50500,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 1.8969580866396427,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 27,
+      "plan_length": 18,
+      "heuristic_calls": 69,
+      "heuristic_val_for_initial_state": 22.250654220581055,
+      "search_time": 6.830632603727281,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/7/task42.pddl": {
+    "h-max": {
+      "nodes_expanded": 1833,
+      "plan_length": 14,
+      "heuristic_calls": 3954,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 1.9573557963594794,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 83,
+      "plan_length": 14,
+      "heuristic_calls": 244,
+      "heuristic_val_for_initial_state": 18,
+      "search_time": 0.09872839413583279,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 77,
+      "plan_length": 14,
+      "heuristic_calls": 204,
+      "heuristic_val_for_initial_state": 10.0,
+      "search_time": 0.43457500729709864,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 169,
+      "plan_length": 14,
+      "heuristic_calls": 387,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 0.16795278247445822,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 14814,
+      "plan_length": 14,
+      "heuristic_calls": 23443,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.6949595715850592,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 19,
+      "plan_length": 14,
+      "heuristic_calls": 54,
+      "heuristic_val_for_initial_state": 18.5177059173584,
+      "search_time": 5.291432121768594,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/8/task05.pddl": {
+    "h-max": {
+      "nodes_expanded": 44886,
+      "plan_length": 20,
+      "heuristic_calls": 86424,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 55.137269489467144,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 76,
+      "plan_length": 24,
+      "heuristic_calls": 270,
+      "heuristic_val_for_initial_state": 36,
+      "search_time": 0.15074116550385952,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 51,
+      "plan_length": 20,
+      "heuristic_calls": 135,
+      "heuristic_val_for_initial_state": 15.0,
+      "search_time": 0.5427890429273248,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 98,
+      "plan_length": 20,
+      "heuristic_calls": 253,
+      "heuristic_val_for_initial_state": 15,
+      "search_time": 0.15519435331225395,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 279074,
+      "plan_length": 20,
+      "heuristic_calls": 365830,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 15.10507314093411,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 29,
+      "plan_length": 20,
+      "heuristic_calls": 85,
+      "heuristic_val_for_initial_state": 34.5363655090332,
+      "search_time": 8.452583335340023,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/8/task08.pddl": {
+    "h-max": {
+      "nodes_expanded": 61690,
+      "plan_length": 18,
+      "heuristic_calls": 110544,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 69.82215349189937,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 110,
+      "plan_length": 22,
+      "heuristic_calls": 333,
+      "heuristic_val_for_initial_state": 21,
+      "search_time": 0.17332101427018642,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 396,
+      "plan_length": 18,
+      "heuristic_calls": 1074,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 4.183622485026717,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 773,
+      "plan_length": 18,
+      "heuristic_calls": 1949,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 1.2073415899649262,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 419291,
+      "plan_length": 18,
+      "heuristic_calls": 517145,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 23.00193925574422,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 39,
+      "plan_length": 22,
+      "heuristic_calls": 104,
+      "heuristic_val_for_initial_state": 29.52390480041504,
+      "search_time": 10.27698644157499,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/8/task13.pddl": {
+    "h-max": {
+      "nodes_expanded": 80639,
+      "plan_length": 20,
+      "heuristic_calls": 141879,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 89.85709744133055,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 113,
+      "plan_length": 20,
+      "heuristic_calls": 530,
+      "heuristic_val_for_initial_state": 34,
+      "search_time": 0.2995708389207721,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 215,
+      "plan_length": 20,
+      "heuristic_calls": 544,
+      "heuristic_val_for_initial_state": 14.0,
+      "search_time": 2.192544635385275,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 607,
+      "plan_length": 20,
+      "heuristic_calls": 1697,
+      "heuristic_val_for_initial_state": 14,
+      "search_time": 1.0319924298673868,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 409109,
+      "plan_length": 20,
+      "heuristic_calls": 494208,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 21.359340824186802,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 28,
+      "plan_length": 20,
+      "heuristic_calls": 101,
+      "heuristic_val_for_initial_state": 26.975603103637695,
+      "search_time": 9.916450632736087,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/8/task18.pddl": {
+    "h-max": {
+      "nodes_expanded": 15931,
+      "plan_length": 16,
+      "heuristic_calls": 34818,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 21.278631407767534,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 40,
+      "plan_length": 16,
+      "heuristic_calls": 149,
+      "heuristic_val_for_initial_state": 19,
+      "search_time": 0.07204746641218662,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 69,
+      "plan_length": 16,
+      "heuristic_calls": 182,
+      "heuristic_val_for_initial_state": 13.0,
+      "search_time": 0.644839433953166,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 112,
+      "plan_length": 16,
+      "heuristic_calls": 299,
+      "heuristic_val_for_initial_state": 13,
+      "search_time": 0.15777549520134926,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 123527,
+      "plan_length": 16,
+      "heuristic_calls": 192223,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 7.010303251445293,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 38,
+      "plan_length": 16,
+      "heuristic_calls": 121,
+      "heuristic_val_for_initial_state": 16.505159378051758,
+      "search_time": 11.938934219069779,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/8/task20.pddl": {
+    "h-max": {
+      "nodes_expanded": 39728,
+      "plan_length": 16,
+      "heuristic_calls": 77980,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 48.24408012535423,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 260,
+      "plan_length": 18,
+      "heuristic_calls": 1075,
+      "heuristic_val_for_initial_state": 21,
+      "search_time": 0.605468281544745,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 133,
+      "plan_length": 16,
+      "heuristic_calls": 476,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 1.6487095532938838,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 340,
+      "plan_length": 16,
+      "heuristic_calls": 1120,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.6826662076637149,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 299392,
+      "plan_length": 16,
+      "heuristic_calls": 402180,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 16.617604706436396,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 18,
+      "plan_length": 16,
+      "heuristic_calls": 73,
+      "heuristic_val_for_initial_state": 26.539581298828125,
+      "search_time": 7.240167279727757,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/8/task24.pddl": {
+    "h-max": {
+      "nodes_expanded": 38364,
+      "plan_length": 16,
+      "heuristic_calls": 75975,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 46.99146249610931,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 119,
+      "plan_length": 20,
+      "heuristic_calls": 496,
+      "heuristic_val_for_initial_state": 21,
+      "search_time": 0.323139451444149,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 164,
+      "plan_length": 16,
+      "heuristic_calls": 575,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 1.8315875483676791,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 398,
+      "plan_length": 16,
+      "heuristic_calls": 1254,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.7541000582277775,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 239336,
+      "plan_length": 16,
+      "heuristic_calls": 328639,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 13.161135757341981,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 68,
+      "plan_length": 16,
+      "heuristic_calls": 264,
+      "heuristic_val_for_initial_state": 18.2913761138916,
+      "search_time": 26.5677579222247,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/8/task25.pddl": {
+    "h-max": {
+      "nodes_expanded": 82508,
+      "plan_length": 22,
+      "heuristic_calls": 142686,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 92.31127792131156,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 146,
+      "plan_length": 26,
+      "heuristic_calls": 538,
+      "heuristic_val_for_initial_state": 41,
+      "search_time": 0.3051530113443732,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 346,
+      "plan_length": 22,
+      "heuristic_calls": 883,
+      "heuristic_val_for_initial_state": 13.0,
+      "search_time": 3.4827844258397818,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 723,
+      "plan_length": 22,
+      "heuristic_calls": 1719,
+      "heuristic_val_for_initial_state": 13,
+      "search_time": 1.0539539670571685,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 404308,
+      "plan_length": 22,
+      "heuristic_calls": 486140,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 21.35073523875326,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 26,
+      "plan_length": 22,
+      "heuristic_calls": 77,
+      "heuristic_val_for_initial_state": 36.763526916503906,
+      "search_time": 7.661268009804189,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/8/task27.pddl": {
+    "h-max": {
+      "nodes_expanded": 137151,
+      "plan_length": 22,
+      "heuristic_calls": 216284,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 138.86435081344098,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 174,
+      "plan_length": 24,
+      "heuristic_calls": 676,
+      "heuristic_val_for_initial_state": 33,
+      "search_time": 0.37940461561083794,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 1535,
+      "plan_length": 22,
+      "heuristic_calls": 4473,
+      "heuristic_val_for_initial_state": 14.0,
+      "search_time": 16.554452808573842,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 2726,
+      "plan_length": 22,
+      "heuristic_calls": 7504,
+      "heuristic_val_for_initial_state": 14,
+      "search_time": 4.661618296988308,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 521650,
+      "plan_length": 22,
+      "heuristic_calls": 585302,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 27.148495001718402,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 26,
+      "plan_length": 22,
+      "heuristic_calls": 97,
+      "heuristic_val_for_initial_state": 28.442489624023438,
+      "search_time": 9.541477498598397,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/8/task36.pddl": {
+    "h-max": {
+      "nodes_expanded": 70886,
+      "plan_length": 18,
+      "heuristic_calls": 128028,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 81.46717922762036,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 245,
+      "plan_length": 18,
+      "heuristic_calls": 870,
+      "heuristic_val_for_initial_state": 32,
+      "search_time": 0.4801582768559456,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 269,
+      "plan_length": 18,
+      "heuristic_calls": 875,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 3.243050415068865,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 721,
+      "plan_length": 18,
+      "heuristic_calls": 2068,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 1.2501733554527164,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 433117,
+      "plan_length": 18,
+      "heuristic_calls": 528594,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 23.86343784444034,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 50,
+      "plan_length": 20,
+      "heuristic_calls": 182,
+      "heuristic_val_for_initial_state": 25.308897018432617,
+      "search_time": 20.37890242319554,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/8/task42.pddl": {
+    "h-max": {
+      "nodes_expanded": 208074,
+      "plan_length": 20,
+      "heuristic_calls": 298775,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 196.68642978183925,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 172,
+      "plan_length": 20,
+      "heuristic_calls": 614,
+      "heuristic_val_for_initial_state": 23,
+      "search_time": 0.3507252596318722,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 1647,
+      "plan_length": 20,
+      "heuristic_calls": 4595,
+      "heuristic_val_for_initial_state": 13.0,
+      "search_time": 18.084875775501132,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 2978,
+      "plan_length": 20,
+      "heuristic_calls": 7965,
+      "heuristic_val_for_initial_state": 13,
+      "search_time": 5.025003228336573,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 613696,
+      "plan_length": 20,
+      "heuristic_calls": 650107,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 32.29972359910607,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 46,
+      "plan_length": 24,
+      "heuristic_calls": 159,
+      "heuristic_val_for_initial_state": 27.37443733215332,
+      "search_time": 17.596968533471227,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/9/task05.pddl": {
+    "h-max": {
+      "nodes_expanded": 175219,
+      "plan_length": -1,
+      "heuristic_calls": 376091,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 300.00127088744193,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 510,
+      "plan_length": 30,
+      "heuristic_calls": 1811,
+      "heuristic_val_for_initial_state": 51,
+      "search_time": 1.3981435364112258,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 3820,
+      "plan_length": 26,
+      "heuristic_calls": 10621,
+      "heuristic_val_for_initial_state": 17.0,
+      "search_time": 60.61131621617824,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 6980,
+      "plan_length": 26,
+      "heuristic_calls": 18362,
+      "heuristic_val_for_initial_state": 17,
+      "search_time": 14.722680393606424,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 4668510,
+      "plan_length": -1,
+      "heuristic_calls": 5682861,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 300.00038042478263,
+      "search_state": "timed_out"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 30,
+      "plan_length": 28,
+      "heuristic_calls": 74,
+      "heuristic_val_for_initial_state": 42.69491195678711,
+      "search_time": 7.593951253220439,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/9/task08.pddl": {
+    "h-max": {
+      "nodes_expanded": 170718,
+      "plan_length": -1,
+      "heuristic_calls": 375043,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 300.00182606093585,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 646,
+      "plan_length": 26,
+      "heuristic_calls": 2194,
+      "heuristic_val_for_initial_state": 59,
+      "search_time": 1.5124280946329236,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 51,
+      "plan_length": 22,
+      "heuristic_calls": 140,
+      "heuristic_val_for_initial_state": 18.0,
+      "search_time": 0.7863590372726321,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 67,
+      "plan_length": 22,
+      "heuristic_calls": 175,
+      "heuristic_val_for_initial_state": 18,
+      "search_time": 0.13305307924747467,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 2877714,
+      "plan_length": 22,
+      "heuristic_calls": 4007654,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 190.71957383863628,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 29,
+      "plan_length": 22,
+      "heuristic_calls": 93,
+      "heuristic_val_for_initial_state": 36.60552978515625,
+      "search_time": 9.264587173238397,
+      "search_state": "success"
+    }
+  }
+}

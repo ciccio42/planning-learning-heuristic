@@ -1,0 +1,5 @@
+__pycache__
+STRIPS-HGN/
+goose-zenodo-aaai24
+*.txt
+baseline_evaluation/scorpion
