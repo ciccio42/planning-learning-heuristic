@@ -51,5 +51,6 @@ if __name__ == "__main__":
     dirs = os.listdir(args.problems_path)
 
     for dir in dirs:
-        print(f"Considering dir: {dir}\n")
-        extract_problems(os.path.join(args.problems_path, dir))
+        if 'pkl' not in dir:
+            print(f"Considering dir: {dir}\n")
+            extract_problems(os.path.join(args.problems_path, dir))

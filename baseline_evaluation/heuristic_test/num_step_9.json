@@ -1,0 +1,602 @@
+{
+  "blocks_world/easy/5/task05.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 22,
+      "plan_length": 10,
+      "heuristic_calls": 54,
+      "heuristic_val_for_initial_state": 7.281616687774658,
+      "search_time": 1.2816494470462203,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task08.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 14,
+      "plan_length": 10,
+      "heuristic_calls": 33,
+      "heuristic_val_for_initial_state": 11.056109428405762,
+      "search_time": 0.7301141796633601,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task13.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 15,
+      "plan_length": 14,
+      "heuristic_calls": 33,
+      "heuristic_val_for_initial_state": 16.175024032592773,
+      "search_time": 0.715738289989531,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task18.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 12,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 17.16766357421875,
+      "search_time": 0.7503520799800754,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task20.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 24,
+      "heuristic_val_for_initial_state": 15.474066734313965,
+      "search_time": 0.5537257473915815,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task24.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 19,
+      "heuristic_val_for_initial_state": 14.032369613647461,
+      "search_time": 0.43310529831796885,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task25.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 8,
+      "plan_length": 6,
+      "heuristic_calls": 19,
+      "heuristic_val_for_initial_state": 6.560239315032959,
+      "search_time": 0.4314053123816848,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task27.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 20,
+      "plan_length": 16,
+      "heuristic_calls": 38,
+      "heuristic_val_for_initial_state": 16.911151885986328,
+      "search_time": 0.8833319582045078,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task36.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 7.116135597229004,
+      "search_time": 0.45411069691181183,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task42.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 24,
+      "heuristic_val_for_initial_state": 13.620842933654785,
+      "search_time": 0.548768624663353,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task05.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 11.541400909423828,
+      "search_time": 0.6137239467352629,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task08.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 15,
+      "plan_length": 14,
+      "heuristic_calls": 33,
+      "heuristic_val_for_initial_state": 19.250228881835938,
+      "search_time": 0.7853451548144221,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task13.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 21,
+      "plan_length": 20,
+      "heuristic_calls": 52,
+      "heuristic_val_for_initial_state": 20.75575065612793,
+      "search_time": 1.239640143699944,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task18.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 10,
+      "heuristic_calls": 28,
+      "heuristic_val_for_initial_state": 13.819842338562012,
+      "search_time": 0.6063782135024667,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task20.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 27,
+      "plan_length": 16,
+      "heuristic_calls": 80,
+      "heuristic_val_for_initial_state": 15.282910346984863,
+      "search_time": 1.8913425179198384,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task24.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 39,
+      "heuristic_val_for_initial_state": 15.194533348083496,
+      "search_time": 0.9467831598594785,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task25.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 27,
+      "plan_length": 16,
+      "heuristic_calls": 79,
+      "heuristic_val_for_initial_state": 19.73430633544922,
+      "search_time": 1.9213046375662088,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task27.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 31,
+      "heuristic_val_for_initial_state": 16.45391273498535,
+      "search_time": 0.7180875958874822,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task36.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 22,
+      "plan_length": 14,
+      "heuristic_calls": 59,
+      "heuristic_val_for_initial_state": 20.947107315063477,
+      "search_time": 1.5388223174959421,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task42.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 17,
+      "plan_length": 14,
+      "heuristic_calls": 48,
+      "heuristic_val_for_initial_state": 18.153287887573242,
+      "search_time": 1.1469788262620568,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task05.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 36,
+      "plan_length": 18,
+      "heuristic_calls": 126,
+      "heuristic_val_for_initial_state": 18.88798713684082,
+      "search_time": 2.9067084221169353,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task08.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 21,
+      "plan_length": 20,
+      "heuristic_calls": 44,
+      "heuristic_val_for_initial_state": 36.51689529418945,
+      "search_time": 1.063496109098196,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task13.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 19,
+      "plan_length": 16,
+      "heuristic_calls": 57,
+      "heuristic_val_for_initial_state": 22.001970291137695,
+      "search_time": 1.946684100665152,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task18.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 12,
+      "heuristic_calls": 35,
+      "heuristic_val_for_initial_state": 17.49861717224121,
+      "search_time": 1.0986565165221691,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task20.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 36,
+      "plan_length": 16,
+      "heuristic_calls": 116,
+      "heuristic_val_for_initial_state": 16.13300323486328,
+      "search_time": 3.291348277591169,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task24.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 21,
+      "plan_length": 18,
+      "heuristic_calls": 55,
+      "heuristic_val_for_initial_state": 24.758867263793945,
+      "search_time": 1.2912358939647675,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task25.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 17,
+      "plan_length": 16,
+      "heuristic_calls": 52,
+      "heuristic_val_for_initial_state": 30.365690231323242,
+      "search_time": 1.2452399656176567,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task27.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 10,
+      "heuristic_calls": 34,
+      "heuristic_val_for_initial_state": 12.634282112121582,
+      "search_time": 0.7262309677898884,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task36.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 27,
+      "plan_length": 18,
+      "heuristic_calls": 69,
+      "heuristic_val_for_initial_state": 22.237882614135742,
+      "search_time": 1.5443295193836093,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task42.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 19,
+      "plan_length": 14,
+      "heuristic_calls": 54,
+      "heuristic_val_for_initial_state": 18.596908569335938,
+      "search_time": 1.2702974500134587,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task05.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 29,
+      "plan_length": 20,
+      "heuristic_calls": 85,
+      "heuristic_val_for_initial_state": 34.5171012878418,
+      "search_time": 1.943505116738379,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task08.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 41,
+      "plan_length": 22,
+      "heuristic_calls": 112,
+      "heuristic_val_for_initial_state": 29.458744049072266,
+      "search_time": 2.580067782662809,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task13.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 28,
+      "plan_length": 20,
+      "heuristic_calls": 101,
+      "heuristic_val_for_initial_state": 26.976884841918945,
+      "search_time": 2.42410060018301,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task18.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 39,
+      "plan_length": 16,
+      "heuristic_calls": 124,
+      "heuristic_val_for_initial_state": 16.56730079650879,
+      "search_time": 2.7245046235620975,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task20.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 18,
+      "plan_length": 16,
+      "heuristic_calls": 73,
+      "heuristic_val_for_initial_state": 26.542295455932617,
+      "search_time": 1.6321903904899955,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task24.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 74,
+      "plan_length": 16,
+      "heuristic_calls": 283,
+      "heuristic_val_for_initial_state": 18.20640754699707,
+      "search_time": 6.564222123473883,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task25.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 26,
+      "plan_length": 22,
+      "heuristic_calls": 77,
+      "heuristic_val_for_initial_state": 36.7354850769043,
+      "search_time": 2.1738573107868433,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task27.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 26,
+      "plan_length": 22,
+      "heuristic_calls": 97,
+      "heuristic_val_for_initial_state": 28.4588623046875,
+      "search_time": 2.339531776495278,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task36.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 49,
+      "plan_length": 20,
+      "heuristic_calls": 183,
+      "heuristic_val_for_initial_state": 25.29718017578125,
+      "search_time": 4.270207593217492,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task42.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 46,
+      "plan_length": 24,
+      "heuristic_calls": 158,
+      "heuristic_val_for_initial_state": 27.378965377807617,
+      "search_time": 3.776085332967341,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task05.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 30,
+      "plan_length": 28,
+      "heuristic_calls": 74,
+      "heuristic_val_for_initial_state": 42.640499114990234,
+      "search_time": 1.8249813271686435,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task08.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 29,
+      "plan_length": 22,
+      "heuristic_calls": 93,
+      "heuristic_val_for_initial_state": 36.62617874145508,
+      "search_time": 2.3463782696053386,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task13.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 34,
+      "plan_length": 22,
+      "heuristic_calls": 119,
+      "heuristic_val_for_initial_state": 26.244041442871094,
+      "search_time": 2.96119190659374,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task18.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 28,
+      "plan_length": 20,
+      "heuristic_calls": 120,
+      "heuristic_val_for_initial_state": 32.70505142211914,
+      "search_time": 2.952774072997272,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task20.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 32,
+      "plan_length": 20,
+      "heuristic_calls": 138,
+      "heuristic_val_for_initial_state": 23.65053939819336,
+      "search_time": 3.371193424798548,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task24.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 31,
+      "plan_length": 24,
+      "heuristic_calls": 98,
+      "heuristic_val_for_initial_state": 28.572826385498047,
+      "search_time": 2.3741244385018945,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task25.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 30,
+      "plan_length": 20,
+      "heuristic_calls": 96,
+      "heuristic_val_for_initial_state": 26.316436767578125,
+      "search_time": 2.6523362370207906,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task27.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 75,
+      "plan_length": 24,
+      "heuristic_calls": 269,
+      "heuristic_val_for_initial_state": 33.05241012573242,
+      "search_time": 6.576450635679066,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task36.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 53,
+      "plan_length": 30,
+      "heuristic_calls": 159,
+      "heuristic_val_for_initial_state": 40.00571823120117,
+      "search_time": 3.8752682339400053,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task42.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 29,
+      "plan_length": 26,
+      "heuristic_calls": 99,
+      "heuristic_val_for_initial_state": 43.79582214355469,
+      "search_time": 2.409325602464378,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task05.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 42,
+      "plan_length": 26,
+      "heuristic_calls": 172,
+      "heuristic_val_for_initial_state": 33.32815933227539,
+      "search_time": 4.4070867681875825,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task08.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 35,
+      "plan_length": 26,
+      "heuristic_calls": 135,
+      "heuristic_val_for_initial_state": 55.390071868896484,
+      "search_time": 3.4569474728778005,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task13.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 169,
+      "plan_length": 32,
+      "heuristic_calls": 764,
+      "heuristic_val_for_initial_state": 50.31837844848633,
+      "search_time": 20.541910022497177,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task18.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 44,
+      "plan_length": 30,
+      "heuristic_calls": 162,
+      "heuristic_val_for_initial_state": 50.971702575683594,
+      "search_time": 3.8785252878442407,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task20.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 29,
+      "plan_length": 24,
+      "heuristic_calls": 112,
+      "heuristic_val_for_initial_state": 37.255332946777344,
+      "search_time": 3.3318846626207232,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task24.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 55,
+      "plan_length": 30,
+      "heuristic_calls": 230,
+      "heuristic_val_for_initial_state": 41.33950424194336,
+      "search_time": 7.531079028733075,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task25.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 54,
+      "plan_length": 20,
+      "heuristic_calls": 283,
+      "heuristic_val_for_initial_state": 20.589818954467773,
+      "search_time": 7.667498420923948,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task27.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 22,
+      "plan_length": 18,
+      "heuristic_calls": 72,
+      "heuristic_val_for_initial_state": 36.15669631958008,
+      "search_time": 1.9990380182862282,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task36.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 35,
+      "plan_length": 24,
+      "heuristic_calls": 167,
+      "heuristic_val_for_initial_state": 33.4111442565918,
+      "search_time": 4.304460825398564,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task42.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 46,
+      "plan_length": 26,
+      "heuristic_calls": 190,
+      "heuristic_val_for_initial_state": 36.33574295043945,
+      "search_time": 4.763588074594736,
+      "search_state": "success"
+    }
+  }
+}

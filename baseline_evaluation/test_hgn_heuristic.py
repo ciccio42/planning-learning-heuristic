@@ -16,10 +16,7 @@ import json
 
 # Function to extract the numeric part from the path
 
-
-def extract_number(path):
-    match = re.search(r'/(?:\w+)/(\d+)/task', path)
-    return int(match.group(1)) if match else None
+script_dir = os.path.dirname(os.path.abspath(__file__))
 
 
 if __name__ == '__main__':
@@ -27,10 +24,10 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--pkl_path",
                         type=str,
-                        default="/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/easy/test.pkl")
+                        default="/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/test.pkl")
     parser.add_argument("--domain_path",
                         type=str,
-                        default="/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/domain.pddl")
+                        default="/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/domain.pddl")
     parser.add_argument("--ckpt_path",
                         type=str,
                         default=None)
@@ -63,10 +60,16 @@ if __name__ == '__main__':
                         type=int,
                         default=5,
                         help="Timeout in mins")
+    parser.add_argument("--n_steps",
+                        type=int,
+                        default=10,
+                        help="Number of message passing")
     parser.add_argument("--debug",
                         action="store_true")
 
     args = parser.parse_args()
+
+    n_steps = args.n_steps
 
     if args.debug:
         import debugpy
@@ -115,7 +118,8 @@ if __name__ == '__main__':
             strips_hgn_heuristic = get_strips_hgn_heuristic(model=model,
                                                             problem=strip_problem,
                                                             planner=args.planner,
-                                                            device=device
+                                                            device=device,
+                                                            n_steps=n_steps
                                                             )
         # Run pyperplan
         heuristic_to_metrics = evaluate_problem_with_pyperplan(problem=strip_problem,
@@ -130,7 +134,9 @@ if __name__ == '__main__':
 
         # save results
         save_dir = os.path.dirname(os.path.abspath(__file__))
+        os.makedirs(os.path.join(save_dir, "heuristic_test"), exist_ok=True)
         save_path = os.path.join(save_dir,
-                                 "test_heuristic.json")
+                                 "heuristic_test",
+                                 f"{args.test_name}.json")
         write_metrics_to_disk(results=results,
                               save_path=save_path)

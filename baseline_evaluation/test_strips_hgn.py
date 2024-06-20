@@ -23,7 +23,7 @@ from strips_hgn.hypergraph.delete_relaxation import (
 sys.path.append(
     "/raid/home/frosa_Loc/period_abroad/heuristic-computation/STRIPS-HGN/src")
 
-BASE_DIRECTORY = "/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world"
+BASE_DIRECTORY = "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world"
 DOMAIN = "domain.pddl"
 TEST_PKL = "easy/test.pkl"
 
@@ -51,16 +51,19 @@ if __name__ == "__main__":
                         action="store_true")
     parser.add_argument("--ckp_path",
                         type=str,
-                        default="/raid/home/frosa_Loc/period_abroad/heuristic-computation/STRIPS-HGN/results/train-strips-hgn-2024-06-14T10:35:03.286633/model-best.ckpt")
+                        default="/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/STRIPS-HGN/results/train-strips-hgn-2024-06-14T15:36:31.043115/model-best.ckpt")
     parser.add_argument("--domain_path",
                         type=str,
-                        default="/raid/home/frosa_Loc/period_abroad/heuristic-computation/baseline_evaluation/blocks_world/domain.pddl")
+                        default="/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/domain.pddl")
     parser.add_argument("--test_name",
                         type=str,
                         default="test")
     parser.add_argument("--device",
                         type=int,
-                        default=0)
+                        default=3)
+    parser.add_argument("--n_steps",
+                        type=int,
+                        default=10)
 
     args = parser.parse_args()
     if args.debug:
@@ -129,11 +132,11 @@ if __name__ == "__main__":
         start = time.time()
         problem: STRIPSProblem = get_strips_problem(
             args.domain_path, filtered_path)
-        log[filtered_path]["time_strips"] = round((time.time()-start), 2)
+        log[filtered_path]["time_strips"] = round((time.time()-start), 3)
         start = time.time()
         hypergraph = DeleteRelaxationHypergraphView(problem)
         log[filtered_path]["time_delete_relaxation"] = round(
-            (time.time()-start), 2)
+            (time.time()-start), 3)
 
         # open state-value pairs
         with open(state_value_path, 'rb') as file:
@@ -159,12 +162,13 @@ if __name__ == "__main__":
                     device=device
                 )
                 log[filtered_path]["input_to_graph_time"] = round(
-                    time.time()-start, 2)
+                    time.time()-start, 3)
 
                 start = time.time()
-                output_h_tuple = model(input_hyperhraph, 10)
+                print(f"Forward with {args.n_steps} steps")
+                output_h_tuple = model(input_hyperhraph, args.n_steps)
                 log[filtered_path]["inference_time"] = round(
-                    time.time()-start, 2)
+                    time.time()-start, 3)
 
                 heuristic_val = round(output_h_tuple[0].globals.item())
                 print(f"STRIPSHGN h(s_{indx}) = {heuristic_val}")

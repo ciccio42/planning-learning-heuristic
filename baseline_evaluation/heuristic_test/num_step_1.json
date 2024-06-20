@@ -1,0 +1,3002 @@
+{
+  "blocks_world/easy/5/task05.pddl": {
+    "h-max": {
+      "nodes_expanded": 47,
+      "plan_length": 10,
+      "heuristic_calls": 93,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.04068114049732685,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 32,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.013514303602278233,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 28,
+      "heuristic_val_for_initial_state": 7.0,
+      "search_time": 0.04589117970317602,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 17,
+      "plan_length": 10,
+      "heuristic_calls": 40,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 0.016195506788790226,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 195,
+      "plan_length": 10,
+      "heuristic_calls": 316,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.008732599206268787,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 28,
+      "heuristic_val_for_initial_state": 8.962018966674805,
+      "search_time": 0.12573132012039423,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task08.pddl": {
+    "h-max": {
+      "nodes_expanded": 76,
+      "plan_length": 10,
+      "heuristic_calls": 154,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 0.06936718430370092,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 14,
+      "plan_length": 10,
+      "heuristic_calls": 34,
+      "heuristic_val_for_initial_state": 15,
+      "search_time": 0.0138595225289464,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 27,
+      "heuristic_val_for_initial_state": 10.0,
+      "search_time": 0.04463331028819084,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 14,
+      "plan_length": 10,
+      "heuristic_calls": 31,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 0.011497877538204193,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 278,
+      "plan_length": 10,
+      "heuristic_calls": 415,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.013081245124340057,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 27,
+      "heuristic_val_for_initial_state": 13.441888809204102,
+      "search_time": 0.12197308707982302,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task13.pddl": {
+    "h-max": {
+      "nodes_expanded": 281,
+      "plan_length": 12,
+      "heuristic_calls": 440,
+      "heuristic_val_for_initial_state": 3,
+      "search_time": 0.20072339940816164,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 46,
+      "plan_length": 14,
+      "heuristic_calls": 91,
+      "heuristic_val_for_initial_state": 11,
+      "search_time": 0.021949846297502518,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 66,
+      "plan_length": 12,
+      "heuristic_calls": 127,
+      "heuristic_val_for_initial_state": 8.0,
+      "search_time": 0.14403221756219864,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 107,
+      "plan_length": 12,
+      "heuristic_calls": 187,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 0.04963470809161663,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 761,
+      "plan_length": 12,
+      "heuristic_calls": 830,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.018259515054523945,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 44,
+      "plan_length": 14,
+      "heuristic_calls": 81,
+      "heuristic_val_for_initial_state": 12.847256660461426,
+      "search_time": 0.2645956128835678,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task18.pddl": {
+    "h-max": {
+      "nodes_expanded": 71,
+      "plan_length": 12,
+      "heuristic_calls": 147,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 0.036380913108587265,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 18,
+      "plan_length": 12,
+      "heuristic_calls": 36,
+      "heuristic_val_for_initial_state": 16,
+      "search_time": 0.00776019599288702,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 18,
+      "plan_length": 12,
+      "heuristic_calls": 36,
+      "heuristic_val_for_initial_state": 9.0,
+      "search_time": 0.030894863419234753,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 21,
+      "plan_length": 12,
+      "heuristic_calls": 42,
+      "heuristic_val_for_initial_state": 9,
+      "search_time": 0.009667495265603065,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 284,
+      "plan_length": 12,
+      "heuristic_calls": 444,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.007755260914564133,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 16,
+      "plan_length": 12,
+      "heuristic_calls": 30,
+      "heuristic_val_for_initial_state": 14.664017677307129,
+      "search_time": 0.10574589855968952,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task20.pddl": {
+    "h-max": {
+      "nodes_expanded": 69,
+      "plan_length": 10,
+      "heuristic_calls": 144,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.044770398177206516,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 17,
+      "plan_length": 10,
+      "heuristic_calls": 35,
+      "heuristic_val_for_initial_state": 11,
+      "search_time": 0.00954576674848795,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 17,
+      "plan_length": 10,
+      "heuristic_calls": 35,
+      "heuristic_val_for_initial_state": 7.0,
+      "search_time": 0.04040051531046629,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 19,
+      "plan_length": 10,
+      "heuristic_calls": 38,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 0.010824475437402725,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 295,
+      "plan_length": 10,
+      "heuristic_calls": 456,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.009947535581886768,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 14,
+      "plan_length": 10,
+      "heuristic_calls": 27,
+      "heuristic_val_for_initial_state": 11.916863441467285,
+      "search_time": 0.10420986637473106,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task24.pddl": {
+    "h-max": {
+      "nodes_expanded": 63,
+      "plan_length": 10,
+      "heuristic_calls": 130,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.04087796714156866,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 13,
+      "plan_length": 10,
+      "heuristic_calls": 22,
+      "heuristic_val_for_initial_state": 19,
+      "search_time": 0.005487235262989998,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 8.0,
+      "search_time": 0.021770039573311806,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 16,
+      "plan_length": 10,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 0.007043841294944286,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 297,
+      "plan_length": 10,
+      "heuristic_calls": 458,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.010134231299161911,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 19,
+      "heuristic_val_for_initial_state": 13.477996826171875,
+      "search_time": 0.07262539304792881,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task25.pddl": {
+    "h-max": {
+      "nodes_expanded": 15,
+      "plan_length": 6,
+      "heuristic_calls": 29,
+      "heuristic_val_for_initial_state": 2,
+      "search_time": 0.007564733736217022,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 17,
+      "plan_length": 6,
+      "heuristic_calls": 31,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 0.00742519274353981,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 9,
+      "plan_length": 6,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 6.0,
+      "search_time": 0.01906992495059967,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 17,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 0.004329649731516838,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 52,
+      "plan_length": 6,
+      "heuristic_calls": 95,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.002208196558058262,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 6,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 7.167441368103027,
+      "search_time": 0.06814789399504662,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task27.pddl": {
+    "h-max": {
+      "nodes_expanded": 297,
+      "plan_length": 14,
+      "heuristic_calls": 454,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 0.12812943756580353,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 55,
+      "plan_length": 16,
+      "heuristic_calls": 109,
+      "heuristic_val_for_initial_state": 17,
+      "search_time": 0.029289725236594677,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 76,
+      "plan_length": 14,
+      "heuristic_calls": 138,
+      "heuristic_val_for_initial_state": 8.0,
+      "search_time": 0.22457032464444637,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 113,
+      "plan_length": 14,
+      "heuristic_calls": 196,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 0.05474633909761906,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 797,
+      "plan_length": 14,
+      "heuristic_calls": 864,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.01964701060205698,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 46,
+      "plan_length": 16,
+      "heuristic_calls": 85,
+      "heuristic_val_for_initial_state": 12.487765312194824,
+      "search_time": 0.27552506048232317,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task36.pddl": {
+    "h-max": {
+      "nodes_expanded": 23,
+      "plan_length": 8,
+      "heuristic_calls": 51,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.012015748769044876,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 14,
+      "search_time": 0.004406156949698925,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 8.0,
+      "search_time": 0.016418343409895897,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 0.004585502669215202,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 85,
+      "plan_length": 8,
+      "heuristic_calls": 163,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.0027850503101944923,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 10.041966438293457,
+      "search_time": 0.06492272298783064,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/5/task42.pddl": {
+    "h-max": {
+      "nodes_expanded": 46,
+      "plan_length": 10,
+      "heuristic_calls": 86,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 0.02169738058000803,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 19,
+      "plan_length": 10,
+      "heuristic_calls": 44,
+      "heuristic_val_for_initial_state": 9,
+      "search_time": 0.00975111871957779,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 14,
+      "plan_length": 10,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 7.0,
+      "search_time": 0.023699232377111912,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 16,
+      "plan_length": 10,
+      "heuristic_calls": 27,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 0.006107565946877003,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 196,
+      "plan_length": 10,
+      "heuristic_calls": 315,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.0051949480548501015,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 16,
+      "plan_length": 10,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 9.773889541625977,
+      "search_time": 0.08380209188908339,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task05.pddl": {
+    "h-max": {
+      "nodes_expanded": 91,
+      "plan_length": 10,
+      "heuristic_calls": 226,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.07950382307171822,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 18,
+      "plan_length": 14,
+      "heuristic_calls": 55,
+      "heuristic_val_for_initial_state": 19,
+      "search_time": 0.024686370976269245,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 10.0,
+      "search_time": 0.05029870569705963,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 0.00800304301083088,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 492,
+      "plan_length": 10,
+      "heuristic_calls": 952,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.017137225717306137,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 16,
+      "plan_length": 10,
+      "heuristic_calls": 36,
+      "heuristic_val_for_initial_state": 13.605534553527832,
+      "search_time": 0.13730512652546167,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task08.pddl": {
+    "h-max": {
+      "nodes_expanded": 762,
+      "plan_length": 14,
+      "heuristic_calls": 1423,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.5191412288695574,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 34,
+      "plan_length": 16,
+      "heuristic_calls": 76,
+      "heuristic_val_for_initial_state": 21,
+      "search_time": 0.023390662856400013,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 48,
+      "plan_length": 14,
+      "heuristic_calls": 115,
+      "heuristic_val_for_initial_state": 10.0,
+      "search_time": 0.19049735739827156,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 64,
+      "plan_length": 14,
+      "heuristic_calls": 140,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 0.04776663985103369,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 4028,
+      "plan_length": 14,
+      "heuristic_calls": 5208,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.16315382346510887,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 45,
+      "plan_length": 16,
+      "heuristic_calls": 98,
+      "heuristic_val_for_initial_state": 15.969143867492676,
+      "search_time": 0.41161875054240227,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task13.pddl": {
+    "h-max": {
+      "nodes_expanded": 1344,
+      "plan_length": 18,
+      "heuristic_calls": 2311,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 1.0837579844519496,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 94,
+      "plan_length": 22,
+      "heuristic_calls": 217,
+      "heuristic_val_for_initial_state": 37,
+      "search_time": 0.07074466720223427,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 81,
+      "plan_length": 18,
+      "heuristic_calls": 211,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 0.3883767109364271,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 100,
+      "plan_length": 18,
+      "heuristic_calls": 253,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.10106293670833111,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 4996,
+      "plan_length": 18,
+      "heuristic_calls": 5870,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.25952040404081345,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 67,
+      "plan_length": 18,
+      "heuristic_calls": 176,
+      "heuristic_val_for_initial_state": 20.10746955871582,
+      "search_time": 0.6969414008781314,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task18.pddl": {
+    "h-max": {
+      "nodes_expanded": 86,
+      "plan_length": 10,
+      "heuristic_calls": 195,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.06477877590805292,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 13,
+      "plan_length": 10,
+      "heuristic_calls": 26,
+      "heuristic_val_for_initial_state": 11,
+      "search_time": 0.0066792964935302734,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 13,
+      "plan_length": 10,
+      "heuristic_calls": 27,
+      "heuristic_val_for_initial_state": 7.0,
+      "search_time": 0.03298408351838589,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 16,
+      "plan_length": 10,
+      "heuristic_calls": 31,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 0.008298862725496292,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 611,
+      "plan_length": 10,
+      "heuristic_calls": 1147,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.021320982836186886,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 23,
+      "heuristic_val_for_initial_state": 13.613874435424805,
+      "search_time": 0.07562953233718872,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task20.pddl": {
+    "h-max": {
+      "nodes_expanded": 1280,
+      "plan_length": 14,
+      "heuristic_calls": 2225,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.9656651001423597,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 55,
+      "plan_length": 16,
+      "heuristic_calls": 164,
+      "heuristic_val_for_initial_state": 21,
+      "search_time": 0.06318571791052818,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 50,
+      "plan_length": 14,
+      "heuristic_calls": 145,
+      "heuristic_val_for_initial_state": 10.0,
+      "search_time": 0.29312508273869753,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 98,
+      "plan_length": 14,
+      "heuristic_calls": 250,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 0.08983751107007265,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 5074,
+      "plan_length": 14,
+      "heuristic_calls": 6003,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.17887065932154655,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 34,
+      "plan_length": 16,
+      "heuristic_calls": 89,
+      "heuristic_val_for_initial_state": 15.607136726379395,
+      "search_time": 0.33442422933876514,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task24.pddl": {
+    "h-max": {
+      "nodes_expanded": 444,
+      "plan_length": 10,
+      "heuristic_calls": 973,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 0.3676726706326008,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 35,
+      "plan_length": 10,
+      "heuristic_calls": 126,
+      "heuristic_val_for_initial_state": 11,
+      "search_time": 0.040417411364614964,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 22,
+      "plan_length": 10,
+      "heuristic_calls": 77,
+      "heuristic_val_for_initial_state": 7.0,
+      "search_time": 0.10913891904056072,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 32,
+      "plan_length": 10,
+      "heuristic_calls": 108,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 0.03695925325155258,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 2605,
+      "plan_length": 10,
+      "heuristic_calls": 3903,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.1044805496931076,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 18,
+      "plan_length": 10,
+      "heuristic_calls": 64,
+      "heuristic_val_for_initial_state": 10.104513168334961,
+      "search_time": 0.2572466526180506,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task25.pddl": {
+    "h-max": {
+      "nodes_expanded": 485,
+      "plan_length": 16,
+      "heuristic_calls": 980,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 0.34869458992034197,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 44,
+      "plan_length": 16,
+      "heuristic_calls": 105,
+      "heuristic_val_for_initial_state": 17,
+      "search_time": 0.03186969645321369,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 28,
+      "plan_length": 16,
+      "heuristic_calls": 64,
+      "heuristic_val_for_initial_state": 8.0,
+      "search_time": 0.10548193473368883,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 43,
+      "plan_length": 16,
+      "heuristic_calls": 109,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 0.042202905751764774,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 2593,
+      "plan_length": 16,
+      "heuristic_calls": 3675,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.09933658316731453,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 25,
+      "plan_length": 16,
+      "heuristic_calls": 56,
+      "heuristic_val_for_initial_state": 12.369095802307129,
+      "search_time": 0.1889456808567047,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task27.pddl": {
+    "h-max": {
+      "nodes_expanded": 222,
+      "plan_length": 10,
+      "heuristic_calls": 511,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 0.1967670749872923,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 46,
+      "plan_length": 16,
+      "heuristic_calls": 138,
+      "heuristic_val_for_initial_state": 16,
+      "search_time": 0.05026932619512081,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 34,
+      "heuristic_val_for_initial_state": 10.0,
+      "search_time": 0.0502849230542779,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 15,
+      "plan_length": 10,
+      "heuristic_calls": 42,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 0.014403085224330425,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 1401,
+      "plan_length": 10,
+      "heuristic_calls": 2323,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.053767913952469826,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 14,
+      "plan_length": 10,
+      "heuristic_calls": 38,
+      "heuristic_val_for_initial_state": 14.570591926574707,
+      "search_time": 0.12497104424983263,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task36.pddl": {
+    "h-max": {
+      "nodes_expanded": 829,
+      "plan_length": 14,
+      "heuristic_calls": 1522,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.5367639157921076,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 30,
+      "plan_length": 14,
+      "heuristic_calls": 77,
+      "heuristic_val_for_initial_state": 11,
+      "search_time": 0.023833968676626682,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 63,
+      "plan_length": 14,
+      "heuristic_calls": 137,
+      "heuristic_val_for_initial_state": 8.0,
+      "search_time": 0.22137754037976265,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 80,
+      "plan_length": 14,
+      "heuristic_calls": 171,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 0.0590473935008049,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3630,
+      "plan_length": 14,
+      "heuristic_calls": 4746,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.11872905492782593,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 28,
+      "plan_length": 14,
+      "heuristic_calls": 65,
+      "heuristic_val_for_initial_state": 15.091368675231934,
+      "search_time": 0.2185653131455183,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/6/task42.pddl": {
+    "h-max": {
+      "nodes_expanded": 918,
+      "plan_length": 14,
+      "heuristic_calls": 1663,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 0.650121595710516,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 28,
+      "plan_length": 14,
+      "heuristic_calls": 92,
+      "heuristic_val_for_initial_state": 23,
+      "search_time": 0.03457931336015463,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 25,
+      "plan_length": 14,
+      "heuristic_calls": 83,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 0.12206494249403477,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 68,
+      "plan_length": 14,
+      "heuristic_calls": 194,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.07139601651579142,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3612,
+      "plan_length": 14,
+      "heuristic_calls": 4676,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.12043021246790886,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 31,
+      "plan_length": 16,
+      "heuristic_calls": 93,
+      "heuristic_val_for_initial_state": 16.998645782470703,
+      "search_time": 0.3516242913901806,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task05.pddl": {
+    "h-max": {
+      "nodes_expanded": 3331,
+      "plan_length": 16,
+      "heuristic_calls": 6936,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 4.245609565638006,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 21,
+      "plan_length": 16,
+      "heuristic_calls": 71,
+      "heuristic_val_for_initial_state": 30,
+      "search_time": 0.041606358252465725,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 30,
+      "plan_length": 16,
+      "heuristic_calls": 101,
+      "heuristic_val_for_initial_state": 14.0,
+      "search_time": 0.3128170697018504,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 47,
+      "plan_length": 16,
+      "heuristic_calls": 141,
+      "heuristic_val_for_initial_state": 14,
+      "search_time": 0.07194254733622074,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 25489,
+      "plan_length": 16,
+      "heuristic_calls": 36047,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 1.2697431268170476,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 25,
+      "plan_length": 16,
+      "heuristic_calls": 79,
+      "heuristic_val_for_initial_state": 22.595041275024414,
+      "search_time": 0.32931718695908785,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task08.pddl": {
+    "h-max": {
+      "nodes_expanded": 6418,
+      "plan_length": 20,
+      "heuristic_calls": 11984,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 6.420076978392899,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 75,
+      "plan_length": 22,
+      "heuristic_calls": 233,
+      "heuristic_val_for_initial_state": 26,
+      "search_time": 0.10339812003076077,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 121,
+      "plan_length": 20,
+      "heuristic_calls": 307,
+      "heuristic_val_for_initial_state": 11.0,
+      "search_time": 0.808727603405714,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 169,
+      "plan_length": 20,
+      "heuristic_calls": 411,
+      "heuristic_val_for_initial_state": 11,
+      "search_time": 0.19995028339326382,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 30499,
+      "plan_length": 20,
+      "heuristic_calls": 39178,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 1.486833879724145,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 23,
+      "plan_length": 20,
+      "heuristic_calls": 48,
+      "heuristic_val_for_initial_state": 24.540367126464844,
+      "search_time": 0.1674006963148713,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task13.pddl": {
+    "h-max": {
+      "nodes_expanded": 3888,
+      "plan_length": 16,
+      "heuristic_calls": 7544,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 3.7724308241158724,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 70,
+      "plan_length": 18,
+      "heuristic_calls": 179,
+      "heuristic_val_for_initial_state": 22,
+      "search_time": 0.07356896996498108,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 81,
+      "plan_length": 16,
+      "heuristic_calls": 210,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 0.5038088383153081,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 152,
+      "plan_length": 16,
+      "heuristic_calls": 353,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.18334865011274815,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 26416,
+      "plan_length": 16,
+      "heuristic_calls": 36792,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 1.29918971657753,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 32,
+      "plan_length": 16,
+      "heuristic_calls": 92,
+      "heuristic_val_for_initial_state": 21.126935958862305,
+      "search_time": 0.33459217566996813,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task18.pddl": {
+    "h-max": {
+      "nodes_expanded": 266,
+      "plan_length": 12,
+      "heuristic_calls": 694,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 0.3283027559518814,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 43,
+      "plan_length": 18,
+      "heuristic_calls": 145,
+      "heuristic_val_for_initial_state": 26,
+      "search_time": 0.06282726395875216,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 13,
+      "plan_length": 12,
+      "heuristic_calls": 35,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 0.06742982845753431,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 13,
+      "plan_length": 12,
+      "heuristic_calls": 35,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.014566859230399132,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 2134,
+      "plan_length": 12,
+      "heuristic_calls": 4343,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.09474605042487383,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 22,
+      "plan_length": 14,
+      "heuristic_calls": 73,
+      "heuristic_val_for_initial_state": 18.884117126464844,
+      "search_time": 0.2589936414733529,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task20.pddl": {
+    "h-max": {
+      "nodes_expanded": 3524,
+      "plan_length": 16,
+      "heuristic_calls": 7245,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 3.5278762383386493,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 40,
+      "plan_length": 16,
+      "heuristic_calls": 126,
+      "heuristic_val_for_initial_state": 26,
+      "search_time": 0.05203641299158335,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 63,
+      "plan_length": 16,
+      "heuristic_calls": 192,
+      "heuristic_val_for_initial_state": 13.0,
+      "search_time": 0.4146159142255783,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 99,
+      "plan_length": 16,
+      "heuristic_calls": 297,
+      "heuristic_val_for_initial_state": 13,
+      "search_time": 0.13576446659862995,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 21735,
+      "plan_length": 16,
+      "heuristic_calls": 31090,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.9944561142474413,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 23,
+      "plan_length": 16,
+      "heuristic_calls": 74,
+      "heuristic_val_for_initial_state": 22.009912490844727,
+      "search_time": 0.2601369535550475,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task24.pddl": {
+    "h-max": {
+      "nodes_expanded": 2060,
+      "plan_length": 18,
+      "heuristic_calls": 4596,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 2.519625182263553,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 31,
+      "plan_length": 18,
+      "heuristic_calls": 84,
+      "heuristic_val_for_initial_state": 45,
+      "search_time": 0.042074818164110184,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 25,
+      "plan_length": 18,
+      "heuristic_calls": 61,
+      "heuristic_val_for_initial_state": 14.0,
+      "search_time": 0.2121827695518732,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 29,
+      "plan_length": 18,
+      "heuristic_calls": 64,
+      "heuristic_val_for_initial_state": 14,
+      "search_time": 0.0280464431270957,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 18759,
+      "plan_length": 18,
+      "heuristic_calls": 28418,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.7966075781732798,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 22,
+      "plan_length": 18,
+      "heuristic_calls": 61,
+      "heuristic_val_for_initial_state": 25.942502975463867,
+      "search_time": 0.2110119154676795,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task25.pddl": {
+    "h-max": {
+      "nodes_expanded": 7345,
+      "plan_length": 16,
+      "heuristic_calls": 13386,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 6.924914154224098,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 98,
+      "plan_length": 18,
+      "heuristic_calls": 315,
+      "heuristic_val_for_initial_state": 25,
+      "search_time": 0.13810457661747932,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 43,
+      "plan_length": 16,
+      "heuristic_calls": 120,
+      "heuristic_val_for_initial_state": 14.0,
+      "search_time": 0.43844851013273,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 64,
+      "plan_length": 16,
+      "heuristic_calls": 168,
+      "heuristic_val_for_initial_state": 14,
+      "search_time": 0.13466955441981554,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 41534,
+      "plan_length": 16,
+      "heuristic_calls": 50868,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 1.89536327496171,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 37,
+      "plan_length": 18,
+      "heuristic_calls": 107,
+      "heuristic_val_for_initial_state": 26.39339256286621,
+      "search_time": 0.3764121141284704,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task27.pddl": {
+    "h-max": {
+      "nodes_expanded": 70,
+      "plan_length": 10,
+      "heuristic_calls": 151,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 0.0680602639913559,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 19,
+      "plan_length": 10,
+      "heuristic_calls": 59,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.022313125431537628,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 14,
+      "plan_length": 10,
+      "heuristic_calls": 38,
+      "heuristic_val_for_initial_state": 7.0,
+      "search_time": 0.06415405683219433,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 20,
+      "plan_length": 10,
+      "heuristic_calls": 50,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 0.0195108475163579,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 555,
+      "plan_length": 10,
+      "heuristic_calls": 1195,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.09558117762207985,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 10,
+      "heuristic_calls": 34,
+      "heuristic_val_for_initial_state": 11.194225311279297,
+      "search_time": 0.11532104667276144,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task36.pddl": {
+    "h-max": {
+      "nodes_expanded": 10482,
+      "plan_length": 16,
+      "heuristic_calls": 17551,
+      "heuristic_val_for_initial_state": 3,
+      "search_time": 9.473198282532394,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 88,
+      "plan_length": 16,
+      "heuristic_calls": 254,
+      "heuristic_val_for_initial_state": 13,
+      "search_time": 0.10796142462641001,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 368,
+      "plan_length": 16,
+      "heuristic_calls": 870,
+      "heuristic_val_for_initial_state": 9.0,
+      "search_time": 2.5062787057831883,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 589,
+      "plan_length": 16,
+      "heuristic_calls": 1344,
+      "heuristic_val_for_initial_state": 9,
+      "search_time": 0.6675413018092513,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 42774,
+      "plan_length": 16,
+      "heuristic_calls": 50354,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 2.290628948248923,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 79,
+      "plan_length": 18,
+      "heuristic_calls": 226,
+      "heuristic_val_for_initial_state": 16.88079071044922,
+      "search_time": 1.0016927225515246,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/7/task42.pddl": {
+    "h-max": {
+      "nodes_expanded": 1830,
+      "plan_length": 14,
+      "heuristic_calls": 3949,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 2.256600501947105,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 65,
+      "plan_length": 14,
+      "heuristic_calls": 194,
+      "heuristic_val_for_initial_state": 18,
+      "search_time": 0.08162187226116657,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 75,
+      "plan_length": 14,
+      "heuristic_calls": 198,
+      "heuristic_val_for_initial_state": 10.0,
+      "search_time": 0.4537910921499133,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 165,
+      "plan_length": 14,
+      "heuristic_calls": 375,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 0.16979669034481049,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 14643,
+      "plan_length": 14,
+      "heuristic_calls": 23168,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 0.7314210738986731,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 29,
+      "plan_length": 14,
+      "heuristic_calls": 95,
+      "heuristic_val_for_initial_state": 16.5749568939209,
+      "search_time": 0.3471468035131693,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task05.pddl": {
+    "h-max": {
+      "nodes_expanded": 44886,
+      "plan_length": 20,
+      "heuristic_calls": 86424,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 59.796743884682655,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 92,
+      "plan_length": 26,
+      "heuristic_calls": 358,
+      "heuristic_val_for_initial_state": 36,
+      "search_time": 0.20169840659946203,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 52,
+      "plan_length": 20,
+      "heuristic_calls": 139,
+      "heuristic_val_for_initial_state": 15.0,
+      "search_time": 0.5450731022283435,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 98,
+      "plan_length": 20,
+      "heuristic_calls": 253,
+      "heuristic_val_for_initial_state": 15,
+      "search_time": 0.15433486737310886,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 325977,
+      "plan_length": 20,
+      "heuristic_calls": 422578,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 20.715958315879107,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 47,
+      "plan_length": 20,
+      "heuristic_calls": 161,
+      "heuristic_val_for_initial_state": 30.430892944335938,
+      "search_time": 0.6924664359539747,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task08.pddl": {
+    "h-max": {
+      "nodes_expanded": 61694,
+      "plan_length": 18,
+      "heuristic_calls": 110555,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 75.95912360586226,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 151,
+      "plan_length": 22,
+      "heuristic_calls": 470,
+      "heuristic_val_for_initial_state": 21,
+      "search_time": 0.2622849205508828,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 398,
+      "plan_length": 18,
+      "heuristic_calls": 1080,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 4.372049850411713,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 773,
+      "plan_length": 18,
+      "heuristic_calls": 1949,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 1.2368171848356724,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 430405,
+      "plan_length": 18,
+      "heuristic_calls": 529984,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 26.631279970519245,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 137,
+      "plan_length": 18,
+      "heuristic_calls": 419,
+      "heuristic_val_for_initial_state": 22.132234573364258,
+      "search_time": 1.8043534886091948,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task13.pddl": {
+    "h-max": {
+      "nodes_expanded": 80667,
+      "plan_length": 20,
+      "heuristic_calls": 141942,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 98.14757241308689,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 113,
+      "plan_length": 20,
+      "heuristic_calls": 530,
+      "heuristic_val_for_initial_state": 34,
+      "search_time": 0.3284371281042695,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 215,
+      "plan_length": 20,
+      "heuristic_calls": 544,
+      "heuristic_val_for_initial_state": 14.0,
+      "search_time": 2.3615953251719475,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 607,
+      "plan_length": 20,
+      "heuristic_calls": 1696,
+      "heuristic_val_for_initial_state": 14,
+      "search_time": 1.0783264404162765,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 409474,
+      "plan_length": 20,
+      "heuristic_calls": 494681,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 25.997955891303718,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 54,
+      "plan_length": 20,
+      "heuristic_calls": 184,
+      "heuristic_val_for_initial_state": 24.122556686401367,
+      "search_time": 0.6886252416297793,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task18.pddl": {
+    "h-max": {
+      "nodes_expanded": 15935,
+      "plan_length": 16,
+      "heuristic_calls": 34818,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 23.29981409292668,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 40,
+      "plan_length": 16,
+      "heuristic_calls": 149,
+      "heuristic_val_for_initial_state": 19,
+      "search_time": 0.07611567061394453,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 69,
+      "plan_length": 16,
+      "heuristic_calls": 182,
+      "heuristic_val_for_initial_state": 13.0,
+      "search_time": 0.7020180430263281,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 112,
+      "plan_length": 16,
+      "heuristic_calls": 299,
+      "heuristic_val_for_initial_state": 13,
+      "search_time": 0.16888595931231976,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 164317,
+      "plan_length": 16,
+      "heuristic_calls": 253402,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 10.837273648940027,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 20,
+      "plan_length": 16,
+      "heuristic_calls": 57,
+      "heuristic_val_for_initial_state": 21.42371940612793,
+      "search_time": 0.21579617355018854,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task20.pddl": {
+    "h-max": {
+      "nodes_expanded": 39724,
+      "plan_length": 16,
+      "heuristic_calls": 77973,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 52.1027042735368,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 269,
+      "plan_length": 20,
+      "heuristic_calls": 983,
+      "heuristic_val_for_initial_state": 21,
+      "search_time": 0.5529632642865181,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 131,
+      "plan_length": 16,
+      "heuristic_calls": 468,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 1.8287293957546353,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 338,
+      "plan_length": 16,
+      "heuristic_calls": 1110,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.6858036275953054,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 284085,
+      "plan_length": 16,
+      "heuristic_calls": 383052,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 17.997069347649813,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 47,
+      "plan_length": 16,
+      "heuristic_calls": 198,
+      "heuristic_val_for_initial_state": 19.475923538208008,
+      "search_time": 0.7625325098633766,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task24.pddl": {
+    "h-max": {
+      "nodes_expanded": 38385,
+      "plan_length": 16,
+      "heuristic_calls": 76032,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 51.19216039031744,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 119,
+      "plan_length": 20,
+      "heuristic_calls": 496,
+      "heuristic_val_for_initial_state": 21,
+      "search_time": 0.35556707717478275,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 164,
+      "plan_length": 16,
+      "heuristic_calls": 575,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 2.153381778858602,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 398,
+      "plan_length": 16,
+      "heuristic_calls": 1254,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 0.8324947375804186,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 242559,
+      "plan_length": 16,
+      "heuristic_calls": 332700,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 16.093282714486122,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 56,
+      "plan_length": 16,
+      "heuristic_calls": 192,
+      "heuristic_val_for_initial_state": 19.143163681030273,
+      "search_time": 0.7467410638928413,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task25.pddl": {
+    "h-max": {
+      "nodes_expanded": 82493,
+      "plan_length": 22,
+      "heuristic_calls": 142653,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 102.99922293704003,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 140,
+      "plan_length": 26,
+      "heuristic_calls": 516,
+      "heuristic_val_for_initial_state": 41,
+      "search_time": 0.31625482998788357,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 347,
+      "plan_length": 22,
+      "heuristic_calls": 887,
+      "heuristic_val_for_initial_state": 13.0,
+      "search_time": 3.849913782440126,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 723,
+      "plan_length": 22,
+      "heuristic_calls": 1719,
+      "heuristic_val_for_initial_state": 13,
+      "search_time": 1.090377484448254,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 401582,
+      "plan_length": 22,
+      "heuristic_calls": 482968,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 24.523333920165896,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 53,
+      "plan_length": 22,
+      "heuristic_calls": 156,
+      "heuristic_val_for_initial_state": 27.079246520996094,
+      "search_time": 0.7232790868729353,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task27.pddl": {
+    "h-max": {
+      "nodes_expanded": 137155,
+      "plan_length": 22,
+      "heuristic_calls": 216290,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 149.40795765072107,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 174,
+      "plan_length": 24,
+      "heuristic_calls": 672,
+      "heuristic_val_for_initial_state": 33,
+      "search_time": 0.4517466835677624,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 1524,
+      "plan_length": 22,
+      "heuristic_calls": 4438,
+      "heuristic_val_for_initial_state": 14.0,
+      "search_time": 18.33083899319172,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 2726,
+      "plan_length": 22,
+      "heuristic_calls": 7499,
+      "heuristic_val_for_initial_state": 14,
+      "search_time": 5.199791619554162,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 520324,
+      "plan_length": 22,
+      "heuristic_calls": 583514,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 31.29315249156207,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 263,
+      "plan_length": 22,
+      "heuristic_calls": 1000,
+      "heuristic_val_for_initial_state": 25.562387466430664,
+      "search_time": 4.004706000909209,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task36.pddl": {
+    "h-max": {
+      "nodes_expanded": 70891,
+      "plan_length": 18,
+      "heuristic_calls": 128039,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 86.41947819292545,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 235,
+      "plan_length": 18,
+      "heuristic_calls": 841,
+      "heuristic_val_for_initial_state": 32,
+      "search_time": 0.4927933979779482,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 275,
+      "plan_length": 18,
+      "heuristic_calls": 883,
+      "heuristic_val_for_initial_state": 12.0,
+      "search_time": 3.398052228614688,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 723,
+      "plan_length": 18,
+      "heuristic_calls": 2070,
+      "heuristic_val_for_initial_state": 12,
+      "search_time": 1.277210838161409,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 439797,
+      "plan_length": 18,
+      "heuristic_calls": 536234,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 27.886041122488678,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 96,
+      "plan_length": 18,
+      "heuristic_calls": 352,
+      "heuristic_val_for_initial_state": 22.497224807739258,
+      "search_time": 1.3818129571154714,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/8/task42.pddl": {
+    "h-max": {
+      "nodes_expanded": 208073,
+      "plan_length": 20,
+      "heuristic_calls": 298773,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 210.47035507392138,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 153,
+      "plan_length": 20,
+      "heuristic_calls": 540,
+      "heuristic_val_for_initial_state": 23,
+      "search_time": 0.3069322956725955,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 1651,
+      "plan_length": 20,
+      "heuristic_calls": 4606,
+      "heuristic_val_for_initial_state": 13.0,
+      "search_time": 19.651787178590894,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 2978,
+      "plan_length": 20,
+      "heuristic_calls": 7965,
+      "heuristic_val_for_initial_state": 13,
+      "search_time": 5.575966864824295,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 612094,
+      "plan_length": 20,
+      "heuristic_calls": 648531,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 35.26579319220036,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 46,
+      "plan_length": 20,
+      "heuristic_calls": 191,
+      "heuristic_val_for_initial_state": 26.015771865844727,
+      "search_time": 0.7000176748260856,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task05.pddl": {
+    "h-max": {
+      "nodes_expanded": 163059,
+      "plan_length": -1,
+      "heuristic_calls": 349854,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 300.0014733253047,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 510,
+      "plan_length": 30,
+      "heuristic_calls": 1811,
+      "heuristic_val_for_initial_state": 51,
+      "search_time": 1.420531646348536,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 3849,
+      "plan_length": 26,
+      "heuristic_calls": 10708,
+      "heuristic_val_for_initial_state": 17.0,
+      "search_time": 66.52494063600898,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 6980,
+      "plan_length": 26,
+      "heuristic_calls": 18362,
+      "heuristic_val_for_initial_state": 17,
+      "search_time": 16.19181288126856,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 4074739,
+      "plan_length": -1,
+      "heuristic_calls": 5013878,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 300.00309380702674,
+      "search_state": "timed_out"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 143,
+      "plan_length": 28,
+      "heuristic_calls": 456,
+      "heuristic_val_for_initial_state": 37.12488555908203,
+      "search_time": 1.7722773011773825,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task08.pddl": {
+    "h-max": {
+      "nodes_expanded": 158710,
+      "plan_length": -1,
+      "heuristic_calls": 348061,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 300.0015765884891,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 644,
+      "plan_length": 26,
+      "heuristic_calls": 2181,
+      "heuristic_val_for_initial_state": 59,
+      "search_time": 1.5043396763503551,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 54,
+      "plan_length": 22,
+      "heuristic_calls": 152,
+      "heuristic_val_for_initial_state": 18.0,
+      "search_time": 0.8236651429906487,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 72,
+      "plan_length": 22,
+      "heuristic_calls": 192,
+      "heuristic_val_for_initial_state": 18,
+      "search_time": 0.1363185690715909,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 2895703,
+      "plan_length": 22,
+      "heuristic_calls": 4029823,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 216.44807596318424,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 37,
+      "plan_length": 22,
+      "heuristic_calls": 140,
+      "heuristic_val_for_initial_state": 38.03031539916992,
+      "search_time": 0.7311830725520849,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task13.pddl": {
+    "h-max": {
+      "nodes_expanded": 161875,
+      "plan_length": -1,
+      "heuristic_calls": 352810,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 300.00058447849005,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 103,
+      "plan_length": 26,
+      "heuristic_calls": 502,
+      "heuristic_val_for_initial_state": 58,
+      "search_time": 0.3768487088382244,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 65,
+      "plan_length": 22,
+      "heuristic_calls": 230,
+      "heuristic_val_for_initial_state": 18.0,
+      "search_time": 1.3247439106926322,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 140,
+      "plan_length": 22,
+      "heuristic_calls": 482,
+      "heuristic_val_for_initial_state": 18,
+      "search_time": 0.4129892336204648,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 2673680,
+      "plan_length": 22,
+      "heuristic_calls": 3741437,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 199.18521238863468,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 32,
+      "plan_length": 24,
+      "heuristic_calls": 163,
+      "heuristic_val_for_initial_state": 34.22739791870117,
+      "search_time": 0.7425445411354303,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task18.pddl": {
+    "h-max": {
+      "nodes_expanded": 163912,
+      "plan_length": -1,
+      "heuristic_calls": 353347,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 300.00050787068903,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 108,
+      "plan_length": 22,
+      "heuristic_calls": 566,
+      "heuristic_val_for_initial_state": 28,
+      "search_time": 0.3929051021113992,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 257,
+      "plan_length": 20,
+      "heuristic_calls": 939,
+      "heuristic_val_for_initial_state": 17.0,
+      "search_time": 5.40904585365206,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 391,
+      "plan_length": 20,
+      "heuristic_calls": 1338,
+      "heuristic_val_for_initial_state": 17,
+      "search_time": 1.0413568010553718,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3714595,
+      "plan_length": 20,
+      "heuristic_calls": 4898634,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 275.66065651737154,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 29,
+      "plan_length": 22,
+      "heuristic_calls": 139,
+      "heuristic_val_for_initial_state": 32.06280517578125,
+      "search_time": 0.5697512477636337,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task20.pddl": {
+    "h-max": {
+      "nodes_expanded": 167634,
+      "plan_length": -1,
+      "heuristic_calls": 356560,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 300.0012786369771,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 177,
+      "plan_length": 20,
+      "heuristic_calls": 780,
+      "heuristic_val_for_initial_state": 38,
+      "search_time": 0.5290354657918215,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 76,
+      "plan_length": 20,
+      "heuristic_calls": 349,
+      "heuristic_val_for_initial_state": 18.0,
+      "search_time": 1.5416248627007008,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 294,
+      "plan_length": 20,
+      "heuristic_calls": 1236,
+      "heuristic_val_for_initial_state": 18,
+      "search_time": 1.0037594083696604,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 2381010,
+      "plan_length": 20,
+      "heuristic_calls": 3338779,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 176.0302360933274,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 37,
+      "plan_length": 20,
+      "heuristic_calls": 184,
+      "heuristic_val_for_initial_state": 31.468873977661133,
+      "search_time": 0.8159706154838204,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task24.pddl": {
+    "h-max": {
+      "nodes_expanded": 162027,
+      "plan_length": -1,
+      "heuristic_calls": 352669,
+      "heuristic_val_for_initial_state": 9,
+      "search_time": 300.00047362130135,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 589,
+      "plan_length": 26,
+      "heuristic_calls": 2229,
+      "heuristic_val_for_initial_state": 63,
+      "search_time": 1.740471463650465,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 369,
+      "plan_length": 24,
+      "heuristic_calls": 1365,
+      "heuristic_val_for_initial_state": 16.0,
+      "search_time": 6.725406410172582,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 922,
+      "plan_length": 24,
+      "heuristic_calls": 3287,
+      "heuristic_val_for_initial_state": 16,
+      "search_time": 2.570583615452051,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 1752851,
+      "plan_length": 24,
+      "heuristic_calls": 2631596,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 134.1066288780421,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 65,
+      "plan_length": 24,
+      "heuristic_calls": 319,
+      "heuristic_val_for_initial_state": 32.29977798461914,
+      "search_time": 1.4561552302911878,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task25.pddl": {
+    "h-max": {
+      "nodes_expanded": 167770,
+      "plan_length": -1,
+      "heuristic_calls": 361599,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 300.00005794037133,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 196,
+      "plan_length": 22,
+      "heuristic_calls": 826,
+      "heuristic_val_for_initial_state": 36,
+      "search_time": 0.5639313096180558,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 439,
+      "plan_length": 20,
+      "heuristic_calls": 1413,
+      "heuristic_val_for_initial_state": 14.0,
+      "search_time": 8.085498375818133,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 940,
+      "plan_length": 20,
+      "heuristic_calls": 2891,
+      "heuristic_val_for_initial_state": 14,
+      "search_time": 2.6143879666924477,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 2643544,
+      "plan_length": 20,
+      "heuristic_calls": 3739044,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 198.1176956128329,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 320,
+      "plan_length": 20,
+      "heuristic_calls": 1182,
+      "heuristic_val_for_initial_state": 23.728181838989258,
+      "search_time": 5.355030312202871,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task27.pddl": {
+    "h-max": {
+      "nodes_expanded": 164072,
+      "plan_length": -1,
+      "heuristic_calls": 347748,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 300.0006339289248,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 172,
+      "plan_length": 26,
+      "heuristic_calls": 687,
+      "heuristic_val_for_initial_state": 47,
+      "search_time": 0.6048929421231151,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 623,
+      "plan_length": 22,
+      "heuristic_calls": 1799,
+      "heuristic_val_for_initial_state": 16.0,
+      "search_time": 9.833770342171192,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 1345,
+      "plan_length": 22,
+      "heuristic_calls": 3730,
+      "heuristic_val_for_initial_state": 16,
+      "search_time": 2.9401546446606517,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 2578889,
+      "plan_length": 22,
+      "heuristic_calls": 3631499,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 200.68080118764192,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 351,
+      "plan_length": 24,
+      "heuristic_calls": 1266,
+      "heuristic_val_for_initial_state": 31.95634651184082,
+      "search_time": 5.2914275182411075,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task36.pddl": {
+    "h-max": {
+      "nodes_expanded": 157701,
+      "plan_length": -1,
+      "heuristic_calls": 352728,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 300.00201963447034,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 477,
+      "plan_length": 32,
+      "heuristic_calls": 1540,
+      "heuristic_val_for_initial_state": 79,
+      "search_time": 1.2157046236097813,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 1010,
+      "plan_length": 28,
+      "heuristic_calls": 2979,
+      "heuristic_val_for_initial_state": 18.0,
+      "search_time": 16.9372434662655,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 1730,
+      "plan_length": 28,
+      "heuristic_calls": 4900,
+      "heuristic_val_for_initial_state": 18,
+      "search_time": 3.9417878156527877,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 4056195,
+      "plan_length": -1,
+      "heuristic_calls": 5191969,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 300.0000433260575,
+      "search_state": "timed_out"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 48,
+      "plan_length": 28,
+      "heuristic_calls": 205,
+      "heuristic_val_for_initial_state": 39.36796569824219,
+      "search_time": 1.1178310737013817,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/9/task42.pddl": {
+    "h-max": {
+      "nodes_expanded": 157946,
+      "plan_length": -1,
+      "heuristic_calls": 349671,
+      "heuristic_val_for_initial_state": 9,
+      "search_time": 300.0018606418744,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 444,
+      "plan_length": 30,
+      "heuristic_calls": 1306,
+      "heuristic_val_for_initial_state": 72,
+      "search_time": 0.8679352458566427,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 882,
+      "plan_length": 26,
+      "heuristic_calls": 2395,
+      "heuristic_val_for_initial_state": 16.0,
+      "search_time": 12.099649224430323,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 1653,
+      "plan_length": 26,
+      "heuristic_calls": 4208,
+      "heuristic_val_for_initial_state": 16,
+      "search_time": 3.129413460381329,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3961264,
+      "plan_length": 26,
+      "heuristic_calls": 5085287,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 290.39272478502244,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 63,
+      "plan_length": 26,
+      "heuristic_calls": 247,
+      "heuristic_val_for_initial_state": 35.876258850097656,
+      "search_time": 1.0608413917943835,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task05.pddl": {
+    "h-max": {
+      "nodes_expanded": 110327,
+      "plan_length": -1,
+      "heuristic_calls": 288658,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 300.0002973396331,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 93,
+      "plan_length": 26,
+      "heuristic_calls": 419,
+      "heuristic_val_for_initial_state": 54,
+      "search_time": 0.3739127404987812,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 183,
+      "plan_length": 24,
+      "heuristic_calls": 657,
+      "heuristic_val_for_initial_state": 18.0,
+      "search_time": 4.38345910795033,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 688,
+      "plan_length": 24,
+      "heuristic_calls": 2455,
+      "heuristic_val_for_initial_state": 18,
+      "search_time": 2.214729353785515,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3238605,
+      "plan_length": -1,
+      "heuristic_calls": 6517516,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 300.00002448633313,
+      "search_state": "timed_out"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 43,
+      "plan_length": 24,
+      "heuristic_calls": 179,
+      "heuristic_val_for_initial_state": 37.653072357177734,
+      "search_time": 0.8997673494741321,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task08.pddl": {
+    "h-max": {
+      "nodes_expanded": 107797,
+      "plan_length": -1,
+      "heuristic_calls": 279563,
+      "heuristic_val_for_initial_state": 8,
+      "search_time": 300.0026707975194,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 380,
+      "plan_length": 30,
+      "heuristic_calls": 1672,
+      "heuristic_val_for_initial_state": 62,
+      "search_time": 1.6080401567742229,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 205,
+      "plan_length": 26,
+      "heuristic_calls": 487,
+      "heuristic_val_for_initial_state": 19.0,
+      "search_time": 4.401717416010797,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 253,
+      "plan_length": 26,
+      "heuristic_calls": 600,
+      "heuristic_val_for_initial_state": 19,
+      "search_time": 0.5563362082466483,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3218090,
+      "plan_length": -1,
+      "heuristic_calls": 6488355,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 300.0000023562461,
+      "search_state": "timed_out"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 37,
+      "plan_length": 26,
+      "heuristic_calls": 158,
+      "heuristic_val_for_initial_state": 46.529659271240234,
+      "search_time": 0.6916731474921107,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task13.pddl": {
+    "h-max": {
+      "nodes_expanded": 111375,
+      "plan_length": -1,
+      "heuristic_calls": 286743,
+      "heuristic_val_for_initial_state": 9,
+      "search_time": 300.0003563966602,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 474,
+      "plan_length": 32,
+      "heuristic_calls": 2246,
+      "heuristic_val_for_initial_state": 60,
+      "search_time": 2.059305247850716,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 2490,
+      "plan_length": 28,
+      "heuristic_calls": 7527,
+      "heuristic_val_for_initial_state": 19.0,
+      "search_time": 63.19852838665247,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 6216,
+      "plan_length": 28,
+      "heuristic_calls": 19558,
+      "heuristic_val_for_initial_state": 19,
+      "search_time": 20.237997443415225,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3216558,
+      "plan_length": -1,
+      "heuristic_calls": 6477008,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 300.00013203639537,
+      "search_state": "timed_out"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 90,
+      "plan_length": 28,
+      "heuristic_calls": 497,
+      "heuristic_val_for_initial_state": 43.40310287475586,
+      "search_time": 2.097499307245016,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task18.pddl": {
+    "h-max": {
+      "nodes_expanded": 105175,
+      "plan_length": -1,
+      "heuristic_calls": 283312,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 300.00102669838816,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 785,
+      "plan_length": 28,
+      "heuristic_calls": 3254,
+      "heuristic_val_for_initial_state": 28,
+      "search_time": 3.3439394431188703,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 12102,
+      "plan_length": 24,
+      "heuristic_calls": 35511,
+      "heuristic_val_for_initial_state": 15.0,
+      "search_time": 291.37689233664423,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 20671,
+      "plan_length": 24,
+      "heuristic_calls": 57328,
+      "heuristic_val_for_initial_state": 15,
+      "search_time": 61.67253852915019,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3134390,
+      "plan_length": -1,
+      "heuristic_calls": 6285351,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 300.0000460194424,
+      "search_state": "timed_out"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 147,
+      "plan_length": 28,
+      "heuristic_calls": 710,
+      "heuristic_val_for_initial_state": 35.67805862426758,
+      "search_time": 3.2809309186413884,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task20.pddl": {
+    "h-max": {
+      "nodes_expanded": 107318,
+      "plan_length": -1,
+      "heuristic_calls": 284222,
+      "heuristic_val_for_initial_state": 4,
+      "search_time": 300.00027532782406,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 430,
+      "plan_length": 28,
+      "heuristic_calls": 1958,
+      "heuristic_val_for_initial_state": 33,
+      "search_time": 1.635705647058785,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 634,
+      "plan_length": 22,
+      "heuristic_calls": 2345,
+      "heuristic_val_for_initial_state": 17.0,
+      "search_time": 18.283047466538846,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 1686,
+      "plan_length": 22,
+      "heuristic_calls": 5923,
+      "heuristic_val_for_initial_state": 18,
+      "search_time": 6.327439942397177,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3203773,
+      "plan_length": -1,
+      "heuristic_calls": 6282413,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 300.00002628937364,
+      "search_state": "timed_out"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 72,
+      "plan_length": 24,
+      "heuristic_calls": 310,
+      "heuristic_val_for_initial_state": 35.850582122802734,
+      "search_time": 1.2934298673644662,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task24.pddl": {
+    "h-max": {
+      "nodes_expanded": 108922,
+      "plan_length": -1,
+      "heuristic_calls": 289456,
+      "heuristic_val_for_initial_state": 5,
+      "search_time": 300.00126234441996,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 1054,
+      "plan_length": 28,
+      "heuristic_calls": 4238,
+      "heuristic_val_for_initial_state": 37,
+      "search_time": 3.896547542884946,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 11758,
+      "plan_length": -1,
+      "heuristic_calls": 38352,
+      "heuristic_val_for_initial_state": 17.0,
+      "search_time": 300.0059327641502,
+      "search_state": "timed_out"
+    },
+    "h-ff": {
+      "nodes_expanded": 27924,
+      "plan_length": 26,
+      "heuristic_calls": 83824,
+      "heuristic_val_for_initial_state": 17,
+      "search_time": 86.96409303229302,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3232738,
+      "plan_length": -1,
+      "heuristic_calls": 6284472,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 300.0000524688512,
+      "search_state": "timed_out"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 209,
+      "plan_length": 26,
+      "heuristic_calls": 1056,
+      "heuristic_val_for_initial_state": 37.74991226196289,
+      "search_time": 4.570163435302675,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task25.pddl": {
+    "h-max": {
+      "nodes_expanded": 109872,
+      "plan_length": -1,
+      "heuristic_calls": 293059,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 300.0000547710806,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 55,
+      "plan_length": 20,
+      "heuristic_calls": 299,
+      "heuristic_val_for_initial_state": 30,
+      "search_time": 0.2521400451660156,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 100,
+      "plan_length": 20,
+      "heuristic_calls": 366,
+      "heuristic_val_for_initial_state": 17.0,
+      "search_time": 2.8055024426430464,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 192,
+      "plan_length": 20,
+      "heuristic_calls": 741,
+      "heuristic_val_for_initial_state": 17,
+      "search_time": 0.6982129840180278,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3165187,
+      "plan_length": -1,
+      "heuristic_calls": 6424888,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 300.0000572502613,
+      "search_state": "timed_out"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 24,
+      "plan_length": 20,
+      "heuristic_calls": 132,
+      "heuristic_val_for_initial_state": 32.21224594116211,
+      "search_time": 0.5803678650408983,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task27.pddl": {
+    "h-max": {
+      "nodes_expanded": 71221,
+      "plan_length": 18,
+      "heuristic_calls": 190325,
+      "heuristic_val_for_initial_state": 7,
+      "search_time": 191.464221034199,
+      "search_state": "success"
+    },
+    "h-add": {
+      "nodes_expanded": 71,
+      "plan_length": 20,
+      "heuristic_calls": 319,
+      "heuristic_val_for_initial_state": 34,
+      "search_time": 0.27894837874919176,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 58,
+      "plan_length": 18,
+      "heuristic_calls": 175,
+      "heuristic_val_for_initial_state": 15.0,
+      "search_time": 1.1671241661533713,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 78,
+      "plan_length": 18,
+      "heuristic_calls": 228,
+      "heuristic_val_for_initial_state": 15,
+      "search_time": 0.28368087485432625,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 2098822,
+      "plan_length": 18,
+      "heuristic_calls": 4406088,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 195.47485080454499,
+      "search_state": "success"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 25,
+      "plan_length": 18,
+      "heuristic_calls": 88,
+      "heuristic_val_for_initial_state": 33.77145004272461,
+      "search_time": 0.5132091995328665,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task36.pddl": {
+    "h-max": {
+      "nodes_expanded": 112705,
+      "plan_length": -1,
+      "heuristic_calls": 290997,
+      "heuristic_val_for_initial_state": 6,
+      "search_time": 300.00044431351125,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 216,
+      "plan_length": 26,
+      "heuristic_calls": 988,
+      "heuristic_val_for_initial_state": 37,
+      "search_time": 0.8295474369078875,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 217,
+      "plan_length": 20,
+      "heuristic_calls": 766,
+      "heuristic_val_for_initial_state": 16.0,
+      "search_time": 5.093545787036419,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 378,
+      "plan_length": 20,
+      "heuristic_calls": 1252,
+      "heuristic_val_for_initial_state": 16,
+      "search_time": 1.2268738774582744,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3191112,
+      "plan_length": -1,
+      "heuristic_calls": 6315326,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 300.8945753481239,
+      "search_state": "timed_out"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 55,
+      "plan_length": 22,
+      "heuristic_calls": 259,
+      "heuristic_val_for_initial_state": 30.9965877532959,
+      "search_time": 1.1682006260380149,
+      "search_state": "success"
+    }
+  },
+  "blocks_world/easy/10/task42.pddl": {
+    "h-max": {
+      "nodes_expanded": 108150,
+      "plan_length": -1,
+      "heuristic_calls": 298986,
+      "heuristic_val_for_initial_state": 10,
+      "search_time": 300.00107137765735,
+      "search_state": "timed_out"
+    },
+    "h-add": {
+      "nodes_expanded": 90,
+      "plan_length": 26,
+      "heuristic_calls": 419,
+      "heuristic_val_for_initial_state": 89,
+      "search_time": 0.33488187193870544,
+      "search_state": "success"
+    },
+    "lm-cut": {
+      "nodes_expanded": 332,
+      "plan_length": 26,
+      "heuristic_calls": 1078,
+      "heuristic_val_for_initial_state": 18.0,
+      "search_time": 7.584876824170351,
+      "search_state": "success"
+    },
+    "h-ff": {
+      "nodes_expanded": 910,
+      "plan_length": 26,
+      "heuristic_calls": 2899,
+      "heuristic_val_for_initial_state": 18,
+      "search_time": 2.7218827875331044,
+      "search_state": "success"
+    },
+    "blind": {
+      "nodes_expanded": 3474687,
+      "plan_length": -1,
+      "heuristic_calls": 6556981,
+      "heuristic_val_for_initial_state": 1,
+      "search_time": 304.83825163915753,
+      "search_state": "timed_out"
+    },
+    "strips-hgn": {
+      "nodes_expanded": 36,
+      "plan_length": 26,
+      "heuristic_calls": 180,
+      "heuristic_val_for_initial_state": 40.35933303833008,
+      "search_time": 0.754090410657227,
+      "search_state": "success"
+    }
+  }
+}

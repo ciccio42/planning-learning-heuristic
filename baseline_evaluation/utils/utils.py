@@ -233,7 +233,8 @@ def get_strips_hgn_heuristic(
     model: STRIPSHGN,
     problem: STRIPSProblem,
     planner: PlannerForEvaluation,
-    device: int
+    device: int,
+    n_steps: int
 ) -> STRIPSHGNHeuristic:
     """
     Form hypergraph and mapper from state to HypergraphsTuple and
@@ -252,7 +253,7 @@ def get_strips_hgn_heuristic(
                                            device=device)
 
     return STRIPSHGNHeuristic(
-        model, state_to_input_h_tup, planner
+        model, state_to_input_h_tup, planner, n_steps
     )
 
 
