@@ -1,0 +1,3502 @@
+{
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task01.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 5,
+      "plan_length": 4,
+      "heuristic_calls": 6,
+      "heuristic_val_for_initial_state": 3.4040157794952393,
+      "search_time": 0.25549949519336224,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task02.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 12,
+      "heuristic_val_for_initial_state": 9.100207328796387,
+      "search_time": 0.36391046456992626,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task03.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1,
+      "plan_length": 0,
+      "heuristic_calls": 1,
+      "heuristic_val_for_initial_state": 0.08785788714885712,
+      "search_time": 1.765415072441101e-05,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task04.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 5,
+      "plan_length": 4,
+      "heuristic_calls": 6,
+      "heuristic_val_for_initial_state": 2.7815022468566895,
+      "search_time": 0.17911933083087206,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task05.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 11,
+      "heuristic_val_for_initial_state": 7.269538879394531,
+      "search_time": 0.4156335359439254,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task06.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 11,
+      "heuristic_val_for_initial_state": 6.316268444061279,
+      "search_time": 0.4836221765726805,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task07.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 6,
+      "plan_length": 4,
+      "heuristic_calls": 10,
+      "heuristic_val_for_initial_state": 3.0685479640960693,
+      "search_time": 0.5304197398945689,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task08.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 11,
+      "heuristic_val_for_initial_state": 6.848755836486816,
+      "search_time": 0.5846812874078751,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task09.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 11,
+      "heuristic_val_for_initial_state": 4.788681507110596,
+      "search_time": 0.558900167234242,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task10.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 3,
+      "plan_length": 2,
+      "heuristic_calls": 5,
+      "heuristic_val_for_initial_state": 1.5129584074020386,
+      "search_time": 0.19716078974306583,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task11.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 11,
+      "heuristic_val_for_initial_state": 6.3162689208984375,
+      "search_time": 0.5921519547700882,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task12.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 5,
+      "plan_length": 4,
+      "heuristic_calls": 9,
+      "heuristic_val_for_initial_state": 3.1983227729797363,
+      "search_time": 0.4064427996054292,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task13.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 11,
+      "heuristic_val_for_initial_state": 6.848755836486816,
+      "search_time": 0.5338260158896446,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task14.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 10,
+      "heuristic_val_for_initial_state": 4.720402240753174,
+      "search_time": 0.5325408484786749,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task15.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 8,
+      "heuristic_val_for_initial_state": 7.009217262268066,
+      "search_time": 0.4141930276528001,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task16.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 3,
+      "plan_length": 2,
+      "heuristic_calls": 6,
+      "heuristic_val_for_initial_state": 1.6279757022857666,
+      "search_time": 0.2963171126320958,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task17.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 3,
+      "plan_length": 2,
+      "heuristic_calls": 5,
+      "heuristic_val_for_initial_state": 1.5129581689834595,
+      "search_time": 0.23299285676330328,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task18.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 6,
+      "plan_length": 4,
+      "heuristic_calls": 10,
+      "heuristic_val_for_initial_state": 3.1733367443084717,
+      "search_time": 0.519298474304378,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task19.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 3,
+      "plan_length": 2,
+      "heuristic_calls": 3,
+      "heuristic_val_for_initial_state": 1.4744137525558472,
+      "search_time": 0.1164343161508441,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task20.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 3,
+      "plan_length": 2,
+      "heuristic_calls": 4,
+      "heuristic_val_for_initial_state": 1.681955099105835,
+      "search_time": 0.1773950606584549,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task21.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 6,
+      "plan_length": 4,
+      "heuristic_calls": 10,
+      "heuristic_val_for_initial_state": 3.1733367443084717,
+      "search_time": 0.5363980904221535,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task22.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 3,
+      "plan_length": 2,
+      "heuristic_calls": 4,
+      "heuristic_val_for_initial_state": 1.681955337524414,
+      "search_time": 0.17537760827690363,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task23.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 12,
+      "heuristic_val_for_initial_state": 9.100208282470703,
+      "search_time": 0.5846176249906421,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task24.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1,
+      "plan_length": 0,
+      "heuristic_calls": 1,
+      "heuristic_val_for_initial_state": 0.08785781264305115,
+      "search_time": 1.7535872757434845e-05,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task25.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 5,
+      "plan_length": 4,
+      "heuristic_calls": 9,
+      "heuristic_val_for_initial_state": 3.55800199508667,
+      "search_time": 0.4575195359066129,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task26.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 12,
+      "heuristic_val_for_initial_state": 9.10020923614502,
+      "search_time": 0.6220878772437572,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task27.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 11,
+      "heuristic_val_for_initial_state": 7.269538879394531,
+      "search_time": 0.5790470372885466,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task28.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 10,
+      "heuristic_val_for_initial_state": 3.936511754989624,
+      "search_time": 0.48927924036979675,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task29.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 12,
+      "heuristic_val_for_initial_state": 9.610535621643066,
+      "search_time": 0.5592681830748916,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task30.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 3,
+      "plan_length": 2,
+      "heuristic_calls": 3,
+      "heuristic_val_for_initial_state": 1.4744136333465576,
+      "search_time": 0.11395896226167679,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task31.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 12,
+      "heuristic_val_for_initial_state": 7.152419090270996,
+      "search_time": 0.5499623399227858,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task32.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 6,
+      "plan_length": 4,
+      "heuristic_calls": 10,
+      "heuristic_val_for_initial_state": 3.0685479640960693,
+      "search_time": 0.49856521748006344,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task33.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 12,
+      "heuristic_val_for_initial_state": 9.610536575317383,
+      "search_time": 0.6427838942036033,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task34.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 12,
+      "heuristic_val_for_initial_state": 7.152419090270996,
+      "search_time": 0.6519862357527018,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task35.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 10,
+      "heuristic_val_for_initial_state": 3.936511754989624,
+      "search_time": 0.4558149892836809,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task36.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 3,
+      "plan_length": 2,
+      "heuristic_calls": 3,
+      "heuristic_val_for_initial_state": 1.474413514137268,
+      "search_time": 0.11716794781386852,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task37.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 12,
+      "heuristic_val_for_initial_state": 9.919354438781738,
+      "search_time": 0.6376724420115352,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task38.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 12,
+      "heuristic_val_for_initial_state": 9.919356346130371,
+      "search_time": 0.5905788782984018,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task39.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 3,
+      "plan_length": 2,
+      "heuristic_calls": 3,
+      "heuristic_val_for_initial_state": 1.4744136333465576,
+      "search_time": 0.11977603565901518,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task40.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 3,
+      "plan_length": 2,
+      "heuristic_calls": 5,
+      "heuristic_val_for_initial_state": 1.512958288192749,
+      "search_time": 0.24074075184762478,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task41.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1,
+      "plan_length": 0,
+      "heuristic_calls": 1,
+      "heuristic_val_for_initial_state": 0.08785764127969742,
+      "search_time": 1.3204291462898254e-05,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task42.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1,
+      "plan_length": 0,
+      "heuristic_calls": 1,
+      "heuristic_val_for_initial_state": 0.04307197779417038,
+      "search_time": 1.9949860870838165e-05,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task43.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 11,
+      "heuristic_val_for_initial_state": 6.316267967224121,
+      "search_time": 0.6012000367045403,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task44.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 12,
+      "heuristic_val_for_initial_state": 7.1524200439453125,
+      "search_time": 0.6521880924701691,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task45.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 12,
+      "heuristic_val_for_initial_state": 9.919354438781738,
+      "search_time": 0.6320158569142222,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task46.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 5,
+      "plan_length": 4,
+      "heuristic_calls": 7,
+      "heuristic_val_for_initial_state": 4.366613388061523,
+      "search_time": 0.36039509531110525,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task47.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 12,
+      "heuristic_val_for_initial_state": 9.610535621643066,
+      "search_time": 0.6523337317630649,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task48.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 5,
+      "plan_length": 4,
+      "heuristic_calls": 9,
+      "heuristic_val_for_initial_state": 3.558002233505249,
+      "search_time": 0.4157809326425195,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task49.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 11,
+      "heuristic_val_for_initial_state": 7.2695393562316895,
+      "search_time": 0.48885980900377035,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/3/task50.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 3,
+      "plan_length": 2,
+      "heuristic_calls": 5,
+      "heuristic_val_for_initial_state": 1.8723902702331543,
+      "search_time": 0.20596327912062407,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task01.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 16,
+      "plan_length": 10,
+      "heuristic_calls": 30,
+      "heuristic_val_for_initial_state": 12.604317665100098,
+      "search_time": 1.6345834797248244,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task02.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 7.8822784423828125,
+      "search_time": 1.0119098974391818,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task03.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 10,
+      "plan_length": 8,
+      "heuristic_calls": 22,
+      "heuristic_val_for_initial_state": 6.13829231262207,
+      "search_time": 1.1465778043493629,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task04.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 5,
+      "plan_length": 4,
+      "heuristic_calls": 11,
+      "heuristic_val_for_initial_state": 3.6674933433532715,
+      "search_time": 0.5947102578356862,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task05.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 13,
+      "heuristic_val_for_initial_state": 7.758891582489014,
+      "search_time": 0.6859260359779,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task06.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 15,
+      "plan_length": 8,
+      "heuristic_calls": 29,
+      "heuristic_val_for_initial_state": 7.615787506103516,
+      "search_time": 1.4808549229055643,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task07.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 8.388993263244629,
+      "search_time": 1.1944348346441984,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task08.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 6,
+      "heuristic_calls": 23,
+      "heuristic_val_for_initial_state": 4.892770767211914,
+      "search_time": 1.2574745025485754,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task09.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 16,
+      "plan_length": 10,
+      "heuristic_calls": 29,
+      "heuristic_val_for_initial_state": 8.99172306060791,
+      "search_time": 1.6339072175323963,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task10.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 14,
+      "plan_length": 10,
+      "heuristic_calls": 28,
+      "heuristic_val_for_initial_state": 8.728926658630371,
+      "search_time": 1.5058934353291988,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task11.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 13,
+      "heuristic_val_for_initial_state": 8.642735481262207,
+      "search_time": 0.6932199373841286,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task12.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 15,
+      "heuristic_val_for_initial_state": 8.976476669311523,
+      "search_time": 0.7097810208797455,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task13.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 8,
+      "heuristic_calls": 19,
+      "heuristic_val_for_initial_state": 4.981545448303223,
+      "search_time": 0.9888900835067034,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task14.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 20,
+      "heuristic_val_for_initial_state": 9.084381103515625,
+      "search_time": 0.9609988927841187,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task15.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 10,
+      "heuristic_val_for_initial_state": 3.402486562728882,
+      "search_time": 0.5389736453071237,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task16.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 20,
+      "heuristic_val_for_initial_state": 9.040095329284668,
+      "search_time": 1.0851375227794051,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task17.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 18,
+      "heuristic_val_for_initial_state": 11.245570182800293,
+      "search_time": 0.9609325621277094,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task18.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 5,
+      "plan_length": 4,
+      "heuristic_calls": 8,
+      "heuristic_val_for_initial_state": 4.218531608581543,
+      "search_time": 0.3749264059588313,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task19.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 15,
+      "plan_length": 10,
+      "heuristic_calls": 28,
+      "heuristic_val_for_initial_state": 11.395485877990723,
+      "search_time": 1.3963522240519524,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task20.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 12,
+      "heuristic_calls": 23,
+      "heuristic_val_for_initial_state": 12.344464302062988,
+      "search_time": 1.3330098642036319,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task21.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 11,
+      "heuristic_val_for_initial_state": 11.819947242736816,
+      "search_time": 0.5957516524940729,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task22.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 10,
+      "plan_length": 8,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 10.71469783782959,
+      "search_time": 1.107762711122632,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task23.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 12,
+      "heuristic_val_for_initial_state": 6.907849311828613,
+      "search_time": 0.6520135048776865,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task24.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 12,
+      "plan_length": 10,
+      "heuristic_calls": 22,
+      "heuristic_val_for_initial_state": 9.235285758972168,
+      "search_time": 1.2066505262628198,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task25.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 15,
+      "heuristic_val_for_initial_state": 8.409214973449707,
+      "search_time": 0.7142300624400377,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task26.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 10,
+      "heuristic_calls": 24,
+      "heuristic_val_for_initial_state": 8.934172630310059,
+      "search_time": 1.3036842783913016,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task27.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 10,
+      "plan_length": 8,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 10.71469783782959,
+      "search_time": 1.2007032539695501,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task28.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 16,
+      "heuristic_val_for_initial_state": 11.53199291229248,
+      "search_time": 0.8172814734280109,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task29.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 17,
+      "heuristic_val_for_initial_state": 7.083327770233154,
+      "search_time": 0.9146812641993165,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task30.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 3,
+      "plan_length": 2,
+      "heuristic_calls": 6,
+      "heuristic_val_for_initial_state": 1.8218505382537842,
+      "search_time": 0.25559904891997576,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task31.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 22,
+      "heuristic_val_for_initial_state": 13.575623512268066,
+      "search_time": 1.2388063045218587,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task32.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 6,
+      "heuristic_calls": 23,
+      "heuristic_val_for_initial_state": 4.972599983215332,
+      "search_time": 1.2954605417326093,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task33.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 12,
+      "heuristic_calls": 23,
+      "heuristic_val_for_initial_state": 13.92605209350586,
+      "search_time": 1.3215866414830089,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task34.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 9,
+      "plan_length": 8,
+      "heuristic_calls": 17,
+      "heuristic_val_for_initial_state": 5.924472332000732,
+      "search_time": 0.8621270032599568,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task35.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 11,
+      "plan_length": 10,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 10.964268684387207,
+      "search_time": 0.9121031258255243,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task36.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 17,
+      "plan_length": 10,
+      "heuristic_calls": 32,
+      "heuristic_val_for_initial_state": 12.690902709960938,
+      "search_time": 1.6699452931061387,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task37.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 5,
+      "plan_length": 4,
+      "heuristic_calls": 10,
+      "heuristic_val_for_initial_state": 3.2330355644226074,
+      "search_time": 0.4322811756283045,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task38.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 17,
+      "plan_length": 10,
+      "heuristic_calls": 32,
+      "heuristic_val_for_initial_state": 7.460583209991455,
+      "search_time": 1.6303374879062176,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task39.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 5,
+      "plan_length": 4,
+      "heuristic_calls": 8,
+      "heuristic_val_for_initial_state": 4.218531608581543,
+      "search_time": 0.35842086654156446,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task40.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 12,
+      "plan_length": 6,
+      "heuristic_calls": 24,
+      "heuristic_val_for_initial_state": 4.91754150390625,
+      "search_time": 1.2640977296978235,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task41.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 5,
+      "plan_length": 4,
+      "heuristic_calls": 11,
+      "heuristic_val_for_initial_state": 4.615442276000977,
+      "search_time": 0.5256912065669894,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task42.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 8,
+      "heuristic_calls": 24,
+      "heuristic_val_for_initial_state": 6.940526962280273,
+      "search_time": 1.0042609460651875,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task43.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 12,
+      "heuristic_calls": 23,
+      "heuristic_val_for_initial_state": 11.44890308380127,
+      "search_time": 1.0538434917107224,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task44.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1,
+      "plan_length": 0,
+      "heuristic_calls": 1,
+      "heuristic_val_for_initial_state": 0.04660407453775406,
+      "search_time": 1.8805265426635742e-05,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task45.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 8,
+      "heuristic_calls": 24,
+      "heuristic_val_for_initial_state": 6.940526485443115,
+      "search_time": 1.2521550608798862,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task46.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 13,
+      "plan_length": 12,
+      "heuristic_calls": 23,
+      "heuristic_val_for_initial_state": 14.442132949829102,
+      "search_time": 1.1770671177655458,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task47.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 10,
+      "plan_length": 8,
+      "heuristic_calls": 19,
+      "heuristic_val_for_initial_state": 6.008057594299316,
+      "search_time": 1.0023073768243194,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task48.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 7,
+      "plan_length": 6,
+      "heuristic_calls": 16,
+      "heuristic_val_for_initial_state": 5.096179962158203,
+      "search_time": 0.7754894411191344,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task49.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 10,
+      "plan_length": 8,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 9.277148246765137,
+      "search_time": 0.9361736392602324,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/4/task50.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 10,
+      "plan_length": 8,
+      "heuristic_calls": 21,
+      "heuristic_val_for_initial_state": 8.34533977508545,
+      "search_time": 0.9467089641839266,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task01.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 51,
+      "plan_length": 32,
+      "heuristic_calls": 240,
+      "heuristic_val_for_initial_state": 54.59347152709961,
+      "search_time": 13.477755996398628,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task02.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 38,
+      "plan_length": 22,
+      "heuristic_calls": 187,
+      "heuristic_val_for_initial_state": 34.898197174072266,
+      "search_time": 10.656806997954845,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task03.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 39,
+      "plan_length": 28,
+      "heuristic_calls": 197,
+      "heuristic_val_for_initial_state": 50.380271911621094,
+      "search_time": 11.11340880393982,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task04.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1132,
+      "plan_length": 34,
+      "heuristic_calls": 3610,
+      "heuristic_val_for_initial_state": 40.85716247558594,
+      "search_time": 203.18976990506053,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task05.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 174,
+      "plan_length": 34,
+      "heuristic_calls": 700,
+      "heuristic_val_for_initial_state": 45.64830017089844,
+      "search_time": 38.60565744154155,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task06.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 34,
+      "plan_length": 28,
+      "heuristic_calls": 160,
+      "heuristic_val_for_initial_state": 50.03866195678711,
+      "search_time": 8.703702517785132,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task07.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 30,
+      "plan_length": 28,
+      "heuristic_calls": 85,
+      "heuristic_val_for_initial_state": 58.959537506103516,
+      "search_time": 4.55346932541579,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task08.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 32,
+      "plan_length": 28,
+      "heuristic_calls": 144,
+      "heuristic_val_for_initial_state": 60.689083099365234,
+      "search_time": 7.251394368708134,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task09.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 35,
+      "plan_length": 24,
+      "heuristic_calls": 144,
+      "heuristic_val_for_initial_state": 33.61948013305664,
+      "search_time": 8.2015601368621,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task10.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 237,
+      "plan_length": 24,
+      "heuristic_calls": 1012,
+      "heuristic_val_for_initial_state": 27.287508010864258,
+      "search_time": 57.163541668094695,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task11.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 129,
+      "plan_length": 32,
+      "heuristic_calls": 513,
+      "heuristic_val_for_initial_state": 47.23074722290039,
+      "search_time": 30.025822149589658,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task12.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 38,
+      "plan_length": 30,
+      "heuristic_calls": 126,
+      "heuristic_val_for_initial_state": 45.837520599365234,
+      "search_time": 6.756785520352423,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task13.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 31,
+      "plan_length": 24,
+      "heuristic_calls": 144,
+      "heuristic_val_for_initial_state": 34.206295013427734,
+      "search_time": 8.46857753302902,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task14.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 28,
+      "plan_length": 22,
+      "heuristic_calls": 145,
+      "heuristic_val_for_initial_state": 33.97315216064453,
+      "search_time": 7.3667023330926895,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task15.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 111,
+      "plan_length": 44,
+      "heuristic_calls": 425,
+      "heuristic_val_for_initial_state": 82.24661254882812,
+      "search_time": 23.56494725588709,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task16.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 66,
+      "plan_length": 28,
+      "heuristic_calls": 303,
+      "heuristic_val_for_initial_state": 47.11964416503906,
+      "search_time": 16.481593006290495,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task17.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 59,
+      "plan_length": 24,
+      "heuristic_calls": 217,
+      "heuristic_val_for_initial_state": 42.875301361083984,
+      "search_time": 12.032131094485521,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task18.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 31,
+      "plan_length": 24,
+      "heuristic_calls": 157,
+      "heuristic_val_for_initial_state": 53.227970123291016,
+      "search_time": 8.29821015149355,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task19.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 52,
+      "plan_length": 34,
+      "heuristic_calls": 227,
+      "heuristic_val_for_initial_state": 50.03142166137695,
+      "search_time": 12.473500100895762,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task20.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 61,
+      "plan_length": 30,
+      "heuristic_calls": 295,
+      "heuristic_val_for_initial_state": 55.45351028442383,
+      "search_time": 16.28502411209047,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task21.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 66,
+      "plan_length": 24,
+      "heuristic_calls": 298,
+      "heuristic_val_for_initial_state": 36.67207717895508,
+      "search_time": 17.146389433182776,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task22.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 74,
+      "plan_length": 26,
+      "heuristic_calls": 303,
+      "heuristic_val_for_initial_state": 38.84806823730469,
+      "search_time": 17.35428591724485,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task23.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 29,
+      "plan_length": 26,
+      "heuristic_calls": 134,
+      "heuristic_val_for_initial_state": 55.9206428527832,
+      "search_time": 7.54351353738457,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task24.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 38,
+      "plan_length": 22,
+      "heuristic_calls": 183,
+      "heuristic_val_for_initial_state": 37.253353118896484,
+      "search_time": 10.491044035181403,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task25.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 56,
+      "plan_length": 34,
+      "heuristic_calls": 238,
+      "heuristic_val_for_initial_state": 65.12273406982422,
+      "search_time": 13.093745816498995,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task26.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 57,
+      "plan_length": 22,
+      "heuristic_calls": 258,
+      "heuristic_val_for_initial_state": 25.24503517150879,
+      "search_time": 13.811455878429115,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task27.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 38,
+      "plan_length": 30,
+      "heuristic_calls": 172,
+      "heuristic_val_for_initial_state": 55.359317779541016,
+      "search_time": 9.835882558487356,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task28.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 226,
+      "plan_length": 34,
+      "heuristic_calls": 918,
+      "heuristic_val_for_initial_state": 38.35990905761719,
+      "search_time": 51.91598874889314,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task29.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 43,
+      "plan_length": 26,
+      "heuristic_calls": 227,
+      "heuristic_val_for_initial_state": 44.00637435913086,
+      "search_time": 12.397972826845944,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task30.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 152,
+      "plan_length": 42,
+      "heuristic_calls": 539,
+      "heuristic_val_for_initial_state": 51.36150360107422,
+      "search_time": 30.055115689523518,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task31.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 41,
+      "plan_length": 28,
+      "heuristic_calls": 222,
+      "heuristic_val_for_initial_state": 56.749446868896484,
+      "search_time": 12.85398219525814,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task32.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 35,
+      "plan_length": 26,
+      "heuristic_calls": 151,
+      "heuristic_val_for_initial_state": 43.1972770690918,
+      "search_time": 8.546088962815702,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task33.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 31,
+      "plan_length": 24,
+      "heuristic_calls": 114,
+      "heuristic_val_for_initial_state": 35.19981002807617,
+      "search_time": 6.153952588327229,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task34.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 78,
+      "plan_length": 32,
+      "heuristic_calls": 317,
+      "heuristic_val_for_initial_state": 46.49137496948242,
+      "search_time": 16.524232801049948,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task35.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 21,
+      "plan_length": 20,
+      "heuristic_calls": 74,
+      "heuristic_val_for_initial_state": 33.95719909667969,
+      "search_time": 3.904422238469124,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task36.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 91,
+      "plan_length": 34,
+      "heuristic_calls": 400,
+      "heuristic_val_for_initial_state": 41.74649429321289,
+      "search_time": 23.1839107433334,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task37.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 60,
+      "plan_length": 30,
+      "heuristic_calls": 224,
+      "heuristic_val_for_initial_state": 39.29265213012695,
+      "search_time": 12.937161167152226,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task38.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 39,
+      "plan_length": 28,
+      "heuristic_calls": 182,
+      "heuristic_val_for_initial_state": 45.989906311035156,
+      "search_time": 10.450476753525436,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task39.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 259,
+      "plan_length": 30,
+      "heuristic_calls": 1035,
+      "heuristic_val_for_initial_state": 32.33818435668945,
+      "search_time": 58.48798540793359,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task40.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 44,
+      "plan_length": 34,
+      "heuristic_calls": 175,
+      "heuristic_val_for_initial_state": 63.2844352722168,
+      "search_time": 9.686904548667371,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task41.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 32,
+      "plan_length": 24,
+      "heuristic_calls": 146,
+      "heuristic_val_for_initial_state": 29.47703742980957,
+      "search_time": 8.307733315043151,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task42.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 46,
+      "plan_length": 28,
+      "heuristic_calls": 184,
+      "heuristic_val_for_initial_state": 74.76073455810547,
+      "search_time": 10.16095491219312,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task43.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 30,
+      "plan_length": 20,
+      "heuristic_calls": 155,
+      "heuristic_val_for_initial_state": 30.724163055419922,
+      "search_time": 8.374460001476109,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task44.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 153,
+      "plan_length": 40,
+      "heuristic_calls": 697,
+      "heuristic_val_for_initial_state": 56.72720718383789,
+      "search_time": 40.14149496238679,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task45.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 33,
+      "plan_length": 26,
+      "heuristic_calls": 126,
+      "heuristic_val_for_initial_state": 49.04762649536133,
+      "search_time": 7.287160623818636,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task46.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 115,
+      "plan_length": 32,
+      "heuristic_calls": 392,
+      "heuristic_val_for_initial_state": 36.95779800415039,
+      "search_time": 22.46420334186405,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task47.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 26,
+      "plan_length": 24,
+      "heuristic_calls": 109,
+      "heuristic_val_for_initial_state": 50.0987663269043,
+      "search_time": 5.774094668217003,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task48.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 27,
+      "plan_length": 22,
+      "heuristic_calls": 112,
+      "heuristic_val_for_initial_state": 44.729488372802734,
+      "search_time": 6.111470808275044,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task49.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 23,
+      "plan_length": 20,
+      "heuristic_calls": 115,
+      "heuristic_val_for_initial_state": 29.51929473876953,
+      "search_time": 6.398919640108943,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/11/task50.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 332,
+      "plan_length": 28,
+      "heuristic_calls": 1117,
+      "heuristic_val_for_initial_state": 47.95949172973633,
+      "search_time": 62.75996226537973,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task01.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 47,
+      "plan_length": 38,
+      "heuristic_calls": 235,
+      "heuristic_val_for_initial_state": 106.51411437988281,
+      "search_time": 13.30862620100379,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task02.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 58,
+      "plan_length": 34,
+      "heuristic_calls": 306,
+      "heuristic_val_for_initial_state": 55.45780563354492,
+      "search_time": 17.84263447765261,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task03.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 42,
+      "plan_length": 28,
+      "heuristic_calls": 211,
+      "heuristic_val_for_initial_state": 56.57341766357422,
+      "search_time": 12.274485853500664,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task04.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 65,
+      "plan_length": 36,
+      "heuristic_calls": 339,
+      "heuristic_val_for_initial_state": 69.70951843261719,
+      "search_time": 18.939501953311265,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task05.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1173,
+      "plan_length": 32,
+      "heuristic_calls": 4612,
+      "heuristic_val_for_initial_state": 43.67800521850586,
+      "search_time": 262.8712184280157,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task06.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 163,
+      "plan_length": 36,
+      "heuristic_calls": 697,
+      "heuristic_val_for_initial_state": 48.97726821899414,
+      "search_time": 38.48314913082868,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task07.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 81,
+      "plan_length": 40,
+      "heuristic_calls": 403,
+      "heuristic_val_for_initial_state": 80.9567642211914,
+      "search_time": 22.66124814376235,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task08.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 26,
+      "plan_length": 24,
+      "heuristic_calls": 92,
+      "heuristic_val_for_initial_state": 44.006004333496094,
+      "search_time": 5.253409193828702,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task09.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 83,
+      "plan_length": 38,
+      "heuristic_calls": 439,
+      "heuristic_val_for_initial_state": 66.84754180908203,
+      "search_time": 25.107537887990475,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task10.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 52,
+      "plan_length": 30,
+      "heuristic_calls": 248,
+      "heuristic_val_for_initial_state": 57.54679870605469,
+      "search_time": 13.173098381608725,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task11.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 359,
+      "plan_length": 52,
+      "heuristic_calls": 1399,
+      "heuristic_val_for_initial_state": 52.42747116088867,
+      "search_time": 79.05579609517008,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task12.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 54,
+      "plan_length": 34,
+      "heuristic_calls": 283,
+      "heuristic_val_for_initial_state": 60.29039764404297,
+      "search_time": 16.777623019181192,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task13.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 490,
+      "plan_length": 34,
+      "heuristic_calls": 2286,
+      "heuristic_val_for_initial_state": 36.2287712097168,
+      "search_time": 129.79247414506972,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task14.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 27,
+      "plan_length": 24,
+      "heuristic_calls": 96,
+      "heuristic_val_for_initial_state": 56.3024787902832,
+      "search_time": 5.700530624017119,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task15.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 48,
+      "plan_length": 34,
+      "heuristic_calls": 180,
+      "heuristic_val_for_initial_state": 51.602657318115234,
+      "search_time": 10.311017179861665,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task16.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 29,
+      "plan_length": 24,
+      "heuristic_calls": 153,
+      "heuristic_val_for_initial_state": 31.231943130493164,
+      "search_time": 8.419748975895345,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task17.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 127,
+      "plan_length": 30,
+      "heuristic_calls": 477,
+      "heuristic_val_for_initial_state": 42.9849853515625,
+      "search_time": 27.47079269681126,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task18.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 28,
+      "plan_length": 24,
+      "heuristic_calls": 124,
+      "heuristic_val_for_initial_state": 38.099605560302734,
+      "search_time": 6.949317309074104,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task19.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 48,
+      "plan_length": 26,
+      "heuristic_calls": 246,
+      "heuristic_val_for_initial_state": 55.87601852416992,
+      "search_time": 13.207136697135866,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task20.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 36,
+      "plan_length": 28,
+      "heuristic_calls": 151,
+      "heuristic_val_for_initial_state": 49.333858489990234,
+      "search_time": 7.9560957830399275,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task21.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1246,
+      "plan_length": -1,
+      "heuristic_calls": 5261,
+      "heuristic_val_for_initial_state": 40.813514709472656,
+      "search_time": 300.3165960488841,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task22.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 111,
+      "plan_length": 30,
+      "heuristic_calls": 559,
+      "heuristic_val_for_initial_state": 47.008304595947266,
+      "search_time": 31.661853455007076,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task23.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 58,
+      "plan_length": 34,
+      "heuristic_calls": 305,
+      "heuristic_val_for_initial_state": 81.93133544921875,
+      "search_time": 17.24712233990431,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task24.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 61,
+      "plan_length": 40,
+      "heuristic_calls": 302,
+      "heuristic_val_for_initial_state": 68.36378479003906,
+      "search_time": 16.86873608455062,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task25.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 373,
+      "plan_length": 36,
+      "heuristic_calls": 1838,
+      "heuristic_val_for_initial_state": 67.37474822998047,
+      "search_time": 104.43332332279533,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task26.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 118,
+      "plan_length": 42,
+      "heuristic_calls": 541,
+      "heuristic_val_for_initial_state": 87.2979736328125,
+      "search_time": 31.2573089171201,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task27.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 55,
+      "plan_length": 28,
+      "heuristic_calls": 322,
+      "heuristic_val_for_initial_state": 37.889225006103516,
+      "search_time": 18.884561671875417,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task28.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 114,
+      "plan_length": 30,
+      "heuristic_calls": 591,
+      "heuristic_val_for_initial_state": 67.55863952636719,
+      "search_time": 32.16419147886336,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task29.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 37,
+      "plan_length": 30,
+      "heuristic_calls": 163,
+      "heuristic_val_for_initial_state": 74.6365966796875,
+      "search_time": 9.423117003403604,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task30.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 68,
+      "plan_length": 38,
+      "heuristic_calls": 308,
+      "heuristic_val_for_initial_state": 66.6744384765625,
+      "search_time": 16.602384220808744,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task31.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 60,
+      "plan_length": 30,
+      "heuristic_calls": 276,
+      "heuristic_val_for_initial_state": 37.60377883911133,
+      "search_time": 15.27148128580302,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task32.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 108,
+      "plan_length": 30,
+      "heuristic_calls": 492,
+      "heuristic_val_for_initial_state": 47.516265869140625,
+      "search_time": 28.795600658282638,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task33.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 89,
+      "plan_length": 28,
+      "heuristic_calls": 419,
+      "heuristic_val_for_initial_state": 30.85310935974121,
+      "search_time": 24.462934196926653,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task34.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 38,
+      "plan_length": 26,
+      "heuristic_calls": 209,
+      "heuristic_val_for_initial_state": 46.61103439331055,
+      "search_time": 11.670807723887265,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task35.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 59,
+      "plan_length": 32,
+      "heuristic_calls": 239,
+      "heuristic_val_for_initial_state": 44.11085891723633,
+      "search_time": 13.202173537574708,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task36.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 166,
+      "plan_length": 32,
+      "heuristic_calls": 847,
+      "heuristic_val_for_initial_state": 37.174625396728516,
+      "search_time": 46.86748483683914,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task37.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 34,
+      "plan_length": 24,
+      "heuristic_calls": 155,
+      "heuristic_val_for_initial_state": 36.415042877197266,
+      "search_time": 8.733761153183877,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task38.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 57,
+      "plan_length": 32,
+      "heuristic_calls": 236,
+      "heuristic_val_for_initial_state": 64.043212890625,
+      "search_time": 13.383081324398518,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task39.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 43,
+      "plan_length": 32,
+      "heuristic_calls": 215,
+      "heuristic_val_for_initial_state": 46.09909439086914,
+      "search_time": 12.192761125043035,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task40.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 43,
+      "plan_length": 26,
+      "heuristic_calls": 228,
+      "heuristic_val_for_initial_state": 70.53279113769531,
+      "search_time": 12.908417136408389,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task41.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 859,
+      "plan_length": 48,
+      "heuristic_calls": 3926,
+      "heuristic_val_for_initial_state": 46.454627990722656,
+      "search_time": 221.65802262630314,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task42.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 54,
+      "plan_length": 26,
+      "heuristic_calls": 239,
+      "heuristic_val_for_initial_state": 33.73161315917969,
+      "search_time": 11.897044102661312,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task43.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 76,
+      "plan_length": 24,
+      "heuristic_calls": 346,
+      "heuristic_val_for_initial_state": 49.28752517700195,
+      "search_time": 19.480186383239925,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task44.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 142,
+      "plan_length": 36,
+      "heuristic_calls": 592,
+      "heuristic_val_for_initial_state": 59.61989212036133,
+      "search_time": 34.181005098856986,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task45.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 32,
+      "plan_length": 26,
+      "heuristic_calls": 133,
+      "heuristic_val_for_initial_state": 49.882667541503906,
+      "search_time": 7.915977983735502,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task46.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 182,
+      "plan_length": 42,
+      "heuristic_calls": 725,
+      "heuristic_val_for_initial_state": 71.1894302368164,
+      "search_time": 39.815851476974785,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task47.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 75,
+      "plan_length": 34,
+      "heuristic_calls": 364,
+      "heuristic_val_for_initial_state": 64.700927734375,
+      "search_time": 20.391935305669904,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task48.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 166,
+      "plan_length": 36,
+      "heuristic_calls": 648,
+      "heuristic_val_for_initial_state": 54.73678207397461,
+      "search_time": 35.89834373630583,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task49.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 105,
+      "plan_length": 28,
+      "heuristic_calls": 677,
+      "heuristic_val_for_initial_state": 36.06476974487305,
+      "search_time": 39.3377631297335,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/12/task50.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 169,
+      "plan_length": 38,
+      "heuristic_calls": 835,
+      "heuristic_val_for_initial_state": 63.663944244384766,
+      "search_time": 47.25443360954523,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task01.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 135,
+      "plan_length": 44,
+      "heuristic_calls": 638,
+      "heuristic_val_for_initial_state": 81.33566284179688,
+      "search_time": 36.53643726557493,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task02.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 85,
+      "plan_length": 34,
+      "heuristic_calls": 470,
+      "heuristic_val_for_initial_state": 60.91416549682617,
+      "search_time": 26.11094170808792,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task03.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 63,
+      "plan_length": 38,
+      "heuristic_calls": 368,
+      "heuristic_val_for_initial_state": 56.35508346557617,
+      "search_time": 21.437107544392347,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task04.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 268,
+      "plan_length": 50,
+      "heuristic_calls": 969,
+      "heuristic_val_for_initial_state": 58.247493743896484,
+      "search_time": 56.02641885448247,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task05.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 660,
+      "plan_length": 34,
+      "heuristic_calls": 3350,
+      "heuristic_val_for_initial_state": 46.281036376953125,
+      "search_time": 192.03386471047997,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task06.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 997,
+      "plan_length": -1,
+      "heuristic_calls": 5253,
+      "heuristic_val_for_initial_state": 71.67957305908203,
+      "search_time": 300.3424014877528,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task07.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 189,
+      "plan_length": 36,
+      "heuristic_calls": 806,
+      "heuristic_val_for_initial_state": 50.708805084228516,
+      "search_time": 46.16039106063545,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task08.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 497,
+      "plan_length": 38,
+      "heuristic_calls": 2175,
+      "heuristic_val_for_initial_state": 49.71261215209961,
+      "search_time": 122.39435928408056,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task09.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 76,
+      "plan_length": 30,
+      "heuristic_calls": 346,
+      "heuristic_val_for_initial_state": 40.7957878112793,
+      "search_time": 20.02782474178821,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task10.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1530,
+      "plan_length": -1,
+      "heuristic_calls": 5283,
+      "heuristic_val_for_initial_state": 104.720947265625,
+      "search_time": 300.1442569550127,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task11.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 145,
+      "plan_length": 32,
+      "heuristic_calls": 655,
+      "heuristic_val_for_initial_state": 67.80844116210938,
+      "search_time": 37.51189363002777,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task12.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1416,
+      "plan_length": -1,
+      "heuristic_calls": 5231,
+      "heuristic_val_for_initial_state": 40.1351318359375,
+      "search_time": 300.17439696006477,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task13.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 62,
+      "plan_length": 32,
+      "heuristic_calls": 318,
+      "heuristic_val_for_initial_state": 69.09747314453125,
+      "search_time": 18.822639358229935,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task14.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 36,
+      "plan_length": 26,
+      "heuristic_calls": 149,
+      "heuristic_val_for_initial_state": 57.91867446899414,
+      "search_time": 8.608128991909325,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task15.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 40,
+      "plan_length": 32,
+      "heuristic_calls": 183,
+      "heuristic_val_for_initial_state": 50.914024353027344,
+      "search_time": 10.259990449994802,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task16.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 54,
+      "plan_length": 34,
+      "heuristic_calls": 304,
+      "heuristic_val_for_initial_state": 64.4092025756836,
+      "search_time": 15.705440970137715,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task17.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 160,
+      "plan_length": 34,
+      "heuristic_calls": 737,
+      "heuristic_val_for_initial_state": 46.08604049682617,
+      "search_time": 41.164639707654715,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task18.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 101,
+      "plan_length": 28,
+      "heuristic_calls": 607,
+      "heuristic_val_for_initial_state": 54.2840690612793,
+      "search_time": 34.650572068057954,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task19.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 506,
+      "plan_length": 32,
+      "heuristic_calls": 2699,
+      "heuristic_val_for_initial_state": 35.03453826904297,
+      "search_time": 154.2788490979001,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task20.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 68,
+      "plan_length": 28,
+      "heuristic_calls": 450,
+      "heuristic_val_for_initial_state": 43.32425308227539,
+      "search_time": 26.179427496157587,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task21.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 591,
+      "plan_length": 44,
+      "heuristic_calls": 2844,
+      "heuristic_val_for_initial_state": 75.87985229492188,
+      "search_time": 157.15016569383442,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task22.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 75,
+      "plan_length": 34,
+      "heuristic_calls": 338,
+      "heuristic_val_for_initial_state": 54.395511627197266,
+      "search_time": 16.91867466829717,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task23.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 46,
+      "plan_length": 32,
+      "heuristic_calls": 224,
+      "heuristic_val_for_initial_state": 60.435447692871094,
+      "search_time": 11.160992878489196,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task24.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 42,
+      "plan_length": 28,
+      "heuristic_calls": 220,
+      "heuristic_val_for_initial_state": 95.05007934570312,
+      "search_time": 10.860037717968225,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task25.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 97,
+      "plan_length": 42,
+      "heuristic_calls": 430,
+      "heuristic_val_for_initial_state": 58.215919494628906,
+      "search_time": 19.98396984487772,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task26.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1547,
+      "plan_length": -1,
+      "heuristic_calls": 6252,
+      "heuristic_val_for_initial_state": 73.45421600341797,
+      "search_time": 300.0146427983418,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task27.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 524,
+      "plan_length": 44,
+      "heuristic_calls": 2452,
+      "heuristic_val_for_initial_state": 54.53757858276367,
+      "search_time": 118.16877806000412,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task28.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 97,
+      "plan_length": 46,
+      "heuristic_calls": 466,
+      "heuristic_val_for_initial_state": 81.62666320800781,
+      "search_time": 21.914059756323695,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task29.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 930,
+      "plan_length": 50,
+      "heuristic_calls": 2520,
+      "heuristic_val_for_initial_state": 59.68008041381836,
+      "search_time": 120.45175920426846,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task30.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 2021,
+      "plan_length": -1,
+      "heuristic_calls": 6531,
+      "heuristic_val_for_initial_state": 81.02083587646484,
+      "search_time": 300.0878967763856,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task31.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 447,
+      "plan_length": 36,
+      "heuristic_calls": 1864,
+      "heuristic_val_for_initial_state": 49.15784454345703,
+      "search_time": 88.6829844173044,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task32.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1660,
+      "plan_length": -1,
+      "heuristic_calls": 6224,
+      "heuristic_val_for_initial_state": 73.81314086914062,
+      "search_time": 300.1017743367702,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task33.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1961,
+      "plan_length": -1,
+      "heuristic_calls": 6232,
+      "heuristic_val_for_initial_state": 75.848388671875,
+      "search_time": 300.07658930215985,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task34.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 173,
+      "plan_length": 30,
+      "heuristic_calls": 905,
+      "heuristic_val_for_initial_state": 59.05923080444336,
+      "search_time": 45.49850609898567,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task35.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1882,
+      "plan_length": -1,
+      "heuristic_calls": 6222,
+      "heuristic_val_for_initial_state": 74.69837951660156,
+      "search_time": 300.03229358326644,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task36.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1039,
+      "plan_length": -1,
+      "heuristic_calls": 6195,
+      "heuristic_val_for_initial_state": 67.20610046386719,
+      "search_time": 300.0596521925181,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task37.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 80,
+      "plan_length": 36,
+      "heuristic_calls": 444,
+      "heuristic_val_for_initial_state": 62.8656120300293,
+      "search_time": 21.403790730051696,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task38.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1563,
+      "plan_length": -1,
+      "heuristic_calls": 6190,
+      "heuristic_val_for_initial_state": 117.94667053222656,
+      "search_time": 300.05360338743776,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task39.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 44,
+      "plan_length": 28,
+      "heuristic_calls": 238,
+      "heuristic_val_for_initial_state": 76.05014038085938,
+      "search_time": 10.83522863034159,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task40.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 385,
+      "plan_length": 46,
+      "heuristic_calls": 1403,
+      "heuristic_val_for_initial_state": 75.58851623535156,
+      "search_time": 67.93204512260854,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task41.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 88,
+      "plan_length": 34,
+      "heuristic_calls": 406,
+      "heuristic_val_for_initial_state": 59.15817642211914,
+      "search_time": 19.151031638495624,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task42.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 47,
+      "plan_length": 28,
+      "heuristic_calls": 276,
+      "heuristic_val_for_initial_state": 41.91488265991211,
+      "search_time": 13.78730043862015,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task43.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 599,
+      "plan_length": 42,
+      "heuristic_calls": 2260,
+      "heuristic_val_for_initial_state": 39.679222106933594,
+      "search_time": 109.43344951141626,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task44.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1321,
+      "plan_length": -1,
+      "heuristic_calls": 6174,
+      "heuristic_val_for_initial_state": 106.52035522460938,
+      "search_time": 300.0103954868391,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task45.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 228,
+      "plan_length": 30,
+      "heuristic_calls": 1213,
+      "heuristic_val_for_initial_state": 56.97340774536133,
+      "search_time": 57.91666342783719,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task46.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 45,
+      "plan_length": 32,
+      "heuristic_calls": 203,
+      "heuristic_val_for_initial_state": 63.3449821472168,
+      "search_time": 9.807680062949657,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task47.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 2032,
+      "plan_length": -1,
+      "heuristic_calls": 6128,
+      "heuristic_val_for_initial_state": 65.39287567138672,
+      "search_time": 300.2459093593061,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task48.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 42,
+      "plan_length": 26,
+      "heuristic_calls": 203,
+      "heuristic_val_for_initial_state": 49.83308410644531,
+      "search_time": 10.062877862714231,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task49.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 40,
+      "plan_length": 30,
+      "heuristic_calls": 223,
+      "heuristic_val_for_initial_state": 60.000160217285156,
+      "search_time": 10.522229057736695,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/13/task50.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 75,
+      "plan_length": 34,
+      "heuristic_calls": 358,
+      "heuristic_val_for_initial_state": 59.196720123291016,
+      "search_time": 16.42240781802684,
+      "search_state": "success"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task01.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 2848,
+      "plan_length": -1,
+      "heuristic_calls": 6156,
+      "heuristic_val_for_initial_state": 45.94166946411133,
+      "search_time": 300.01245108712465,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task02.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1821,
+      "plan_length": -1,
+      "heuristic_calls": 6116,
+      "heuristic_val_for_initial_state": 104.79052734375,
+      "search_time": 300.09218667447567,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task03.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1543,
+      "plan_length": -1,
+      "heuristic_calls": 6144,
+      "heuristic_val_for_initial_state": 53.29587936401367,
+      "search_time": 300.1890011904761,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task04.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1246,
+      "plan_length": -1,
+      "heuristic_calls": 6241,
+      "heuristic_val_for_initial_state": 56.801822662353516,
+      "search_time": 300.0316894380376,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task05.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1289,
+      "plan_length": -1,
+      "heuristic_calls": 6199,
+      "heuristic_val_for_initial_state": 81.21009063720703,
+      "search_time": 300.0565181225538,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task06.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1417,
+      "plan_length": -1,
+      "heuristic_calls": 6142,
+      "heuristic_val_for_initial_state": 86.78065490722656,
+      "search_time": 300.18147545307875,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task07.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1264,
+      "plan_length": -1,
+      "heuristic_calls": 6149,
+      "heuristic_val_for_initial_state": 91.13420104980469,
+      "search_time": 300.03952746931463,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task08.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1061,
+      "plan_length": -1,
+      "heuristic_calls": 6188,
+      "heuristic_val_for_initial_state": 45.13336181640625,
+      "search_time": 300.0351722277701,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task09.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1223,
+      "plan_length": -1,
+      "heuristic_calls": 6135,
+      "heuristic_val_for_initial_state": 67.48173522949219,
+      "search_time": 300.15235555171967,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task10.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1403,
+      "plan_length": -1,
+      "heuristic_calls": 6135,
+      "heuristic_val_for_initial_state": 54.634315490722656,
+      "search_time": 300.26890902779996,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task11.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 2343,
+      "plan_length": -1,
+      "heuristic_calls": 6161,
+      "heuristic_val_for_initial_state": 44.43724060058594,
+      "search_time": 300.1335156066343,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task12.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1395,
+      "plan_length": -1,
+      "heuristic_calls": 6046,
+      "heuristic_val_for_initial_state": 46.843177795410156,
+      "search_time": 300.1345891626552,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task13.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1840,
+      "plan_length": -1,
+      "heuristic_calls": 5669,
+      "heuristic_val_for_initial_state": 94.8685531616211,
+      "search_time": 300.2360619716346,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task14.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1222,
+      "plan_length": -1,
+      "heuristic_calls": 5614,
+      "heuristic_val_for_initial_state": 93.05274200439453,
+      "search_time": 300.17754145525396,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task15.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1461,
+      "plan_length": -1,
+      "heuristic_calls": 5649,
+      "heuristic_val_for_initial_state": 126.5226821899414,
+      "search_time": 300.03912427835166,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task16.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 998,
+      "plan_length": -1,
+      "heuristic_calls": 5631,
+      "heuristic_val_for_initial_state": 63.020782470703125,
+      "search_time": 300.2866076398641,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task17.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1253,
+      "plan_length": -1,
+      "heuristic_calls": 5635,
+      "heuristic_val_for_initial_state": 92.11731719970703,
+      "search_time": 300.1820060675964,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task18.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1367,
+      "plan_length": -1,
+      "heuristic_calls": 5644,
+      "heuristic_val_for_initial_state": 49.90865707397461,
+      "search_time": 300.1347387507558,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task19.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1136,
+      "plan_length": -1,
+      "heuristic_calls": 5665,
+      "heuristic_val_for_initial_state": 68.94973754882812,
+      "search_time": 300.1909925965592,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task20.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 905,
+      "plan_length": -1,
+      "heuristic_calls": 5592,
+      "heuristic_val_for_initial_state": 139.11219787597656,
+      "search_time": 300.35433075297624,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task21.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 975,
+      "plan_length": -1,
+      "heuristic_calls": 5453,
+      "heuristic_val_for_initial_state": 54.40639877319336,
+      "search_time": 300.0098163038492,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task22.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 727,
+      "plan_length": -1,
+      "heuristic_calls": 5252,
+      "heuristic_val_for_initial_state": 145.06063842773438,
+      "search_time": 300.31673423573375,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task23.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1061,
+      "plan_length": -1,
+      "heuristic_calls": 5430,
+      "heuristic_val_for_initial_state": 49.22050094604492,
+      "search_time": 300.1034157052636,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task24.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1173,
+      "plan_length": -1,
+      "heuristic_calls": 5406,
+      "heuristic_val_for_initial_state": 70.03703308105469,
+      "search_time": 300.1541600963101,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task25.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1475,
+      "plan_length": -1,
+      "heuristic_calls": 5465,
+      "heuristic_val_for_initial_state": 80.81248474121094,
+      "search_time": 300.07043727859855,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task26.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1284,
+      "plan_length": -1,
+      "heuristic_calls": 5374,
+      "heuristic_val_for_initial_state": 86.76246643066406,
+      "search_time": 300.081977898255,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task27.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1179,
+      "plan_length": -1,
+      "heuristic_calls": 5435,
+      "heuristic_val_for_initial_state": 109.29007720947266,
+      "search_time": 300.3044731169939,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task28.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1147,
+      "plan_length": -1,
+      "heuristic_calls": 5391,
+      "heuristic_val_for_initial_state": 64.73704528808594,
+      "search_time": 300.0800002031028,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task29.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1380,
+      "plan_length": -1,
+      "heuristic_calls": 5391,
+      "heuristic_val_for_initial_state": 116.97598266601562,
+      "search_time": 300.21710172109306,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task30.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 2472,
+      "plan_length": -1,
+      "heuristic_calls": 5438,
+      "heuristic_val_for_initial_state": 75.63369750976562,
+      "search_time": 300.0586246745661,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task31.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1151,
+      "plan_length": -1,
+      "heuristic_calls": 5374,
+      "heuristic_val_for_initial_state": 80.78363800048828,
+      "search_time": 300.24564939085394,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task32.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1446,
+      "plan_length": -1,
+      "heuristic_calls": 5361,
+      "heuristic_val_for_initial_state": 117.73312377929688,
+      "search_time": 300.2175725856796,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task33.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1358,
+      "plan_length": -1,
+      "heuristic_calls": 5357,
+      "heuristic_val_for_initial_state": 73.28755187988281,
+      "search_time": 300.17438343632966,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task34.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1541,
+      "plan_length": -1,
+      "heuristic_calls": 5582,
+      "heuristic_val_for_initial_state": 67.63055419921875,
+      "search_time": 300.1749189971015,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task35.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1351,
+      "plan_length": -1,
+      "heuristic_calls": 6321,
+      "heuristic_val_for_initial_state": 48.287376403808594,
+      "search_time": 300.1757697183639,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task36.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1330,
+      "plan_length": -1,
+      "heuristic_calls": 6419,
+      "heuristic_val_for_initial_state": 65.73442840576172,
+      "search_time": 300.02482994645834,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task37.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1853,
+      "plan_length": -1,
+      "heuristic_calls": 6447,
+      "heuristic_val_for_initial_state": 82.48307800292969,
+      "search_time": 300.19562492519617,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task38.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1512,
+      "plan_length": -1,
+      "heuristic_calls": 6425,
+      "heuristic_val_for_initial_state": 59.34171676635742,
+      "search_time": 300.04451642371714,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task39.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1605,
+      "plan_length": -1,
+      "heuristic_calls": 6343,
+      "heuristic_val_for_initial_state": 69.41987609863281,
+      "search_time": 300.05322001036257,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task40.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1448,
+      "plan_length": -1,
+      "heuristic_calls": 6365,
+      "heuristic_val_for_initial_state": 100.04203796386719,
+      "search_time": 300.20554661192,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task41.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1258,
+      "plan_length": -1,
+      "heuristic_calls": 6740,
+      "heuristic_val_for_initial_state": 63.761131286621094,
+      "search_time": 300.0720345331356,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task42.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 2172,
+      "plan_length": -1,
+      "heuristic_calls": 6161,
+      "heuristic_val_for_initial_state": 79.68115234375,
+      "search_time": 300.0317090563476,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task43.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1274,
+      "plan_length": -1,
+      "heuristic_calls": 6191,
+      "heuristic_val_for_initial_state": 136.2958526611328,
+      "search_time": 300.1307078739628,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task44.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1366,
+      "plan_length": -1,
+      "heuristic_calls": 6342,
+      "heuristic_val_for_initial_state": 65.12918090820312,
+      "search_time": 300.0119943600148,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task45.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1722,
+      "plan_length": -1,
+      "heuristic_calls": 6200,
+      "heuristic_val_for_initial_state": 95.70314025878906,
+      "search_time": 300.0803955346346,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task46.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1444,
+      "plan_length": -1,
+      "heuristic_calls": 6331,
+      "heuristic_val_for_initial_state": 87.7528305053711,
+      "search_time": 300.072612805292,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task47.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1423,
+      "plan_length": -1,
+      "heuristic_calls": 6299,
+      "heuristic_val_for_initial_state": 72.8807373046875,
+      "search_time": 300.0558902909979,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task48.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 2311,
+      "plan_length": -1,
+      "heuristic_calls": 6370,
+      "heuristic_val_for_initial_state": 95.98111724853516,
+      "search_time": 300.0600489443168,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task49.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1323,
+      "plan_length": -1,
+      "heuristic_calls": 6362,
+      "heuristic_val_for_initial_state": 58.01607131958008,
+      "search_time": 300.0887246094644,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/14/task50.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1758,
+      "plan_length": -1,
+      "heuristic_calls": 6357,
+      "heuristic_val_for_initial_state": 51.748626708984375,
+      "search_time": 300.1783043984324,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task01.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1620,
+      "plan_length": -1,
+      "heuristic_calls": 6261,
+      "heuristic_val_for_initial_state": 68.97756958007812,
+      "search_time": 300.15755282342434,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task02.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1127,
+      "plan_length": -1,
+      "heuristic_calls": 6273,
+      "heuristic_val_for_initial_state": 87.05525207519531,
+      "search_time": 300.07737739011645,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task03.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1567,
+      "plan_length": -1,
+      "heuristic_calls": 6279,
+      "heuristic_val_for_initial_state": 69.97311401367188,
+      "search_time": 300.046503232792,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task04.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1383,
+      "plan_length": -1,
+      "heuristic_calls": 6267,
+      "heuristic_val_for_initial_state": 105.05887603759766,
+      "search_time": 300.00732277333736,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task05.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 2221,
+      "plan_length": -1,
+      "heuristic_calls": 6306,
+      "heuristic_val_for_initial_state": 69.3121337890625,
+      "search_time": 300.02564400900155,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task06.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1546,
+      "plan_length": -1,
+      "heuristic_calls": 6269,
+      "heuristic_val_for_initial_state": 220.41819763183594,
+      "search_time": 300.1145372316241,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task07.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1265,
+      "plan_length": -1,
+      "heuristic_calls": 6317,
+      "heuristic_val_for_initial_state": 69.53152465820312,
+      "search_time": 300.18425158783793,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task08.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1902,
+      "plan_length": -1,
+      "heuristic_calls": 6238,
+      "heuristic_val_for_initial_state": 61.58333206176758,
+      "search_time": 300.08756304346025,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task09.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1812,
+      "plan_length": -1,
+      "heuristic_calls": 6224,
+      "heuristic_val_for_initial_state": 129.39877319335938,
+      "search_time": 300.0629150941968,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task10.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1888,
+      "plan_length": -1,
+      "heuristic_calls": 6356,
+      "heuristic_val_for_initial_state": 141.3400115966797,
+      "search_time": 300.01946344878525,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task11.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1357,
+      "plan_length": -1,
+      "heuristic_calls": 6588,
+      "heuristic_val_for_initial_state": 62.40044021606445,
+      "search_time": 300.0879625361413,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task12.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 2433,
+      "plan_length": -1,
+      "heuristic_calls": 6766,
+      "heuristic_val_for_initial_state": 52.719078063964844,
+      "search_time": 300.03127506095916,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task13.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1094,
+      "plan_length": -1,
+      "heuristic_calls": 5963,
+      "heuristic_val_for_initial_state": 66.4107666015625,
+      "search_time": 300.09093765355647,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task14.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1220,
+      "plan_length": -1,
+      "heuristic_calls": 6167,
+      "heuristic_val_for_initial_state": 75.99458312988281,
+      "search_time": 300.1273396015167,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task15.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1796,
+      "plan_length": -1,
+      "heuristic_calls": 6201,
+      "heuristic_val_for_initial_state": 88.84521484375,
+      "search_time": 300.10316258855164,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task16.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1915,
+      "plan_length": -1,
+      "heuristic_calls": 6156,
+      "heuristic_val_for_initial_state": 66.47468566894531,
+      "search_time": 300.0011214558035,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task17.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1251,
+      "plan_length": -1,
+      "heuristic_calls": 6221,
+      "heuristic_val_for_initial_state": 61.702335357666016,
+      "search_time": 300.0948822312057,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task18.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1365,
+      "plan_length": -1,
+      "heuristic_calls": 6064,
+      "heuristic_val_for_initial_state": 66.48749542236328,
+      "search_time": 300.0178957693279,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task19.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1870,
+      "plan_length": -1,
+      "heuristic_calls": 6220,
+      "heuristic_val_for_initial_state": 63.25503158569336,
+      "search_time": 300.16952754464,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task20.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1755,
+      "plan_length": -1,
+      "heuristic_calls": 6242,
+      "heuristic_val_for_initial_state": 123.31858825683594,
+      "search_time": 300.1501920958981,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task21.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1268,
+      "plan_length": -1,
+      "heuristic_calls": 6221,
+      "heuristic_val_for_initial_state": 73.4061508178711,
+      "search_time": 300.2940979767591,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task22.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1337,
+      "plan_length": -1,
+      "heuristic_calls": 6174,
+      "heuristic_val_for_initial_state": 78.55696868896484,
+      "search_time": 300.11415226385,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task23.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1280,
+      "plan_length": -1,
+      "heuristic_calls": 6206,
+      "heuristic_val_for_initial_state": 66.58151245117188,
+      "search_time": 300.000048420392,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task24.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 2680,
+      "plan_length": -1,
+      "heuristic_calls": 6296,
+      "heuristic_val_for_initial_state": 86.5363998413086,
+      "search_time": 300.09206780418754,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task25.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 2263,
+      "plan_length": -1,
+      "heuristic_calls": 6127,
+      "heuristic_val_for_initial_state": 94.47441101074219,
+      "search_time": 300.06300697941333,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task26.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1532,
+      "plan_length": -1,
+      "heuristic_calls": 6338,
+      "heuristic_val_for_initial_state": 59.173274993896484,
+      "search_time": 300.17594845499843,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task27.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 977,
+      "plan_length": -1,
+      "heuristic_calls": 6332,
+      "heuristic_val_for_initial_state": 99.45832824707031,
+      "search_time": 300.16730169951916,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task28.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1542,
+      "plan_length": -1,
+      "heuristic_calls": 6637,
+      "heuristic_val_for_initial_state": 88.46395111083984,
+      "search_time": 300.02679668553174,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task29.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1253,
+      "plan_length": -1,
+      "heuristic_calls": 6695,
+      "heuristic_val_for_initial_state": 61.178096771240234,
+      "search_time": 300.0322756357491,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task30.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1505,
+      "plan_length": -1,
+      "heuristic_calls": 6658,
+      "heuristic_val_for_initial_state": 41.243961334228516,
+      "search_time": 300.2387108048424,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task31.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 2001,
+      "plan_length": -1,
+      "heuristic_calls": 6557,
+      "heuristic_val_for_initial_state": 48.86202621459961,
+      "search_time": 300.0041214991361,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task32.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1529,
+      "plan_length": -1,
+      "heuristic_calls": 6707,
+      "heuristic_val_for_initial_state": 120.35626220703125,
+      "search_time": 300.2796770790592,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task33.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1070,
+      "plan_length": -1,
+      "heuristic_calls": 6655,
+      "heuristic_val_for_initial_state": 74.31266784667969,
+      "search_time": 300.23932286165655,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task34.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1193,
+      "plan_length": -1,
+      "heuristic_calls": 6641,
+      "heuristic_val_for_initial_state": 63.40029525756836,
+      "search_time": 300.267979670316,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task35.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1643,
+      "plan_length": -1,
+      "heuristic_calls": 6654,
+      "heuristic_val_for_initial_state": 64.38158416748047,
+      "search_time": 300.0084859151393,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task36.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1303,
+      "plan_length": -1,
+      "heuristic_calls": 6666,
+      "heuristic_val_for_initial_state": 88.42855072021484,
+      "search_time": 300.00212836731225,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task37.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1426,
+      "plan_length": -1,
+      "heuristic_calls": 6633,
+      "heuristic_val_for_initial_state": 75.6722412109375,
+      "search_time": 300.1296000685543,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task38.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1610,
+      "plan_length": -1,
+      "heuristic_calls": 6724,
+      "heuristic_val_for_initial_state": 74.4434814453125,
+      "search_time": 300.0018130475655,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task39.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1426,
+      "plan_length": -1,
+      "heuristic_calls": 6679,
+      "heuristic_val_for_initial_state": 113.87274169921875,
+      "search_time": 300.0023884540424,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task40.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1072,
+      "plan_length": -1,
+      "heuristic_calls": 6653,
+      "heuristic_val_for_initial_state": 40.9970588684082,
+      "search_time": 300.1825217939913,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task41.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1480,
+      "plan_length": -1,
+      "heuristic_calls": 6686,
+      "heuristic_val_for_initial_state": 78.46834564208984,
+      "search_time": 300.16437958274037,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task42.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1163,
+      "plan_length": -1,
+      "heuristic_calls": 6622,
+      "heuristic_val_for_initial_state": 62.54645538330078,
+      "search_time": 300.03507665451616,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task43.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1382,
+      "plan_length": -1,
+      "heuristic_calls": 6661,
+      "heuristic_val_for_initial_state": 59.559017181396484,
+      "search_time": 300.1583158541471,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task44.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1087,
+      "plan_length": -1,
+      "heuristic_calls": 6699,
+      "heuristic_val_for_initial_state": 67.37862396240234,
+      "search_time": 300.2171593522653,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task45.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1947,
+      "plan_length": -1,
+      "heuristic_calls": 6705,
+      "heuristic_val_for_initial_state": 50.4686164855957,
+      "search_time": 300.1032912135124,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task46.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1479,
+      "plan_length": -1,
+      "heuristic_calls": 6460,
+      "heuristic_val_for_initial_state": 58.17471694946289,
+      "search_time": 300.067939943634,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task47.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1519,
+      "plan_length": -1,
+      "heuristic_calls": 6335,
+      "heuristic_val_for_initial_state": 76.84835052490234,
+      "search_time": 300.00469977315515,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task48.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 940,
+      "plan_length": -1,
+      "heuristic_calls": 6290,
+      "heuristic_val_for_initial_state": 49.36298751831055,
+      "search_time": 300.11664170678705,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task49.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1394,
+      "plan_length": -1,
+      "heuristic_calls": 6346,
+      "heuristic_val_for_initial_state": 72.3048095703125,
+      "search_time": 300.12792398035526,
+      "search_state": "timed_out"
+    }
+  },
+  "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world/easy/15/task50.pddl": {
+    "strips-hgn": {
+      "nodes_expanded": 1251,
+      "plan_length": -1,
+      "heuristic_calls": 6669,
+      "heuristic_val_for_initial_state": 78.48004913330078,
+      "search_time": 300.1272042915225,
+      "search_state": "timed_out"
+    }
+  }
+}

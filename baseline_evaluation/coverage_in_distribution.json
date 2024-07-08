@@ -1,0 +1,220 @@
+{
+    "1": {
+        "5": {
+            "h-add": 10,
+            "lm-cut": 10,
+            "h-ff": 10,
+            "strips-hgn": 10
+        },
+        "6": {
+            "h-add": 10,
+            "lm-cut": 10,
+            "h-ff": 10,
+            "strips-hgn": 10
+        },
+        "7": {
+            "h-add": 10,
+            "lm-cut": 10,
+            "h-ff": 10,
+            "strips-hgn": 10
+        },
+        "8": {
+            "h-add": 10,
+            "lm-cut": 10,
+            "h-ff": 10,
+            "strips-hgn": 10
+        },
+        "9": {
+            "h-add": 10,
+            "lm-cut": 10,
+            "h-ff": 10,
+            "strips-hgn": 10
+        },
+        "10": {
+            "h-add": 10,
+            "lm-cut": 9,
+            "h-ff": 10,
+            "strips-hgn": 10
+        }
+    },
+    "2": {
+        "5": {
+            "strips-hgn": 10
+        },
+        "6": {
+            "strips-hgn": 10
+        },
+        "7": {
+            "strips-hgn": 10
+        },
+        "8": {
+            "strips-hgn": 10
+        },
+        "9": {
+            "strips-hgn": 10
+        },
+        "10": {
+            "strips-hgn": 10
+        }
+    },
+    "3": {
+        "5": {
+            "strips-hgn": 10
+        },
+        "6": {
+            "strips-hgn": 10
+        },
+        "7": {
+            "strips-hgn": 10
+        },
+        "8": {
+            "strips-hgn": 10
+        },
+        "9": {
+            "strips-hgn": 10
+        },
+        "10": {
+            "strips-hgn": 10
+        }
+    },
+    "4": {
+        "5": {
+            "strips-hgn": 10
+        },
+        "6": {
+            "strips-hgn": 10
+        },
+        "7": {
+            "strips-hgn": 10
+        },
+        "8": {
+            "strips-hgn": 10
+        },
+        "9": {
+            "strips-hgn": 10
+        },
+        "10": {
+            "strips-hgn": 10
+        }
+    },
+    "5": {
+        "5": {
+            "strips-hgn": 10
+        },
+        "6": {
+            "strips-hgn": 10
+        },
+        "7": {
+            "strips-hgn": 10
+        },
+        "8": {
+            "strips-hgn": 10
+        },
+        "9": {
+            "strips-hgn": 10
+        },
+        "10": {
+            "strips-hgn": 10
+        }
+    },
+    "6": {
+        "5": {
+            "strips-hgn": 10
+        },
+        "6": {
+            "strips-hgn": 10
+        },
+        "7": {
+            "strips-hgn": 10
+        },
+        "8": {
+            "strips-hgn": 10
+        },
+        "9": {
+            "strips-hgn": 10
+        },
+        "10": {
+            "strips-hgn": 10
+        }
+    },
+    "7": {
+        "5": {
+            "strips-hgn": 10
+        },
+        "6": {
+            "strips-hgn": 10
+        },
+        "7": {
+            "strips-hgn": 10
+        },
+        "8": {
+            "strips-hgn": 10
+        },
+        "9": {
+            "strips-hgn": 10
+        },
+        "10": {
+            "strips-hgn": 10
+        }
+    },
+    "8": {
+        "5": {
+            "strips-hgn": 10
+        },
+        "6": {
+            "strips-hgn": 10
+        },
+        "7": {
+            "strips-hgn": 10
+        },
+        "8": {
+            "strips-hgn": 10
+        },
+        "9": {
+            "strips-hgn": 10
+        },
+        "10": {
+            "strips-hgn": 10
+        }
+    },
+    "9": {
+        "5": {
+            "strips-hgn": 10
+        },
+        "6": {
+            "strips-hgn": 10
+        },
+        "7": {
+            "strips-hgn": 10
+        },
+        "8": {
+            "strips-hgn": 10
+        },
+        "9": {
+            "strips-hgn": 10
+        },
+        "10": {
+            "strips-hgn": 10
+        }
+    },
+    "10": {
+        "5": {
+            "strips-hgn": 10
+        },
+        "6": {
+            "strips-hgn": 10
+        },
+        "7": {
+            "strips-hgn": 10
+        },
+        "8": {
+            "strips-hgn": 10
+        },
+        "9": {
+            "strips-hgn": 10
+        },
+        "10": {
+            "strips-hgn": 10
+        }
+    }
+}

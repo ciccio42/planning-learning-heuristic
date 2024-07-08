@@ -25,7 +25,7 @@ sys.path.append(
 
 BASE_DIRECTORY = "/raid/home/frosa_Loc/period_abroad/heuristic-computation/planning-learning-heuristic/baseline_evaluation/blocks_world"
 DOMAIN = "domain.pddl"
-TEST_PKL = "easy/test.pkl"
+TEST_PKL = "easy/test_out_of_distribution.pkl"  # "easy/test.pkl"
 
 
 def seed_everything(seed=42):
@@ -111,10 +111,13 @@ if __name__ == "__main__":
         paths_sorted = sorted(
             train_data, key=lambda path: extract_x_task_number(path))
         filtered_paths = []
-        for path in paths_sorted:
-            x, _ = extract_x_task_number(path)
-            if x <= 10:
-                filtered_paths.append(path)
+        if 'test_out_of_distribution' not in TEST_PKL:
+            for path in paths_sorted:
+                x, _ = extract_x_task_number(path)
+                if x <= 10:
+                    filtered_paths.append(path)
+        else:
+            filtered_paths = paths_sorted
 
     print("Loaded test_paths")
     log = dict()

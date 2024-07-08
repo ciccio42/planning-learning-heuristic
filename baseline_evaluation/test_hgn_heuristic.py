@@ -101,10 +101,13 @@ if __name__ == '__main__':
         paths_sorted = sorted(
             train_data, key=lambda path: extract_x_task_number(path))
         filtered_paths = []
-        for path in paths_sorted:
-            x, _ = extract_x_task_number(path)
-            if x <= 10:
-                filtered_paths.append(path)
+        if "out_of_distribution" not in args.pkl_path:
+            for path in paths_sorted:
+                x, _ = extract_x_task_number(path)
+                if x <= 10:
+                    filtered_paths.append(path)
+        else:
+            filtered_paths = paths_sorted
 
     for problem in filtered_paths:
         print(f"Considering {problem}")
@@ -134,9 +137,12 @@ if __name__ == '__main__':
 
         # save results
         save_dir = os.path.dirname(os.path.abspath(__file__))
-        os.makedirs(os.path.join(save_dir, "heuristic_test"), exist_ok=True)
+        if "out_of_dist" in args.pkl_path:
+            save_dir = os.path.join(save_dir, "heuristic_test", "test_ood")
+        else:
+            save_dir = os.path.join(save_dir, "heuristic_test")
+        os.makedirs(save_dir, exist_ok=True)
         save_path = os.path.join(save_dir,
-                                 "heuristic_test",
                                  f"{args.test_name}.json")
         write_metrics_to_disk(results=results,
                               save_path=save_path)
